@@ -10,7 +10,7 @@ Please find my full list of publications on Google Scholar.
 
 ## Conference/Journal Papers
 
-* **A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation**. <be>
+* **A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation**. <br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
 Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
 Submitted to IEEE International Symposium on Biomedical Imaging (ISBI), 2024
