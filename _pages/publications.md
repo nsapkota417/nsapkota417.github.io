@@ -34,11 +34,11 @@ Yejia Zhang, Pengfei Gu, <u>Nishchal Sapkota</u>,  Hao Zheng, Peixian Liang, and
 
 * **Keep your friends close & enemies farther: Debiasing contrastive learning with spatial priors in 3d radiology images.** <br>
 Yejia Zhang, <u>Nishchal Sapkota</u>,  Pengfei Gu, Yaopeng Peng, Hao Zheng, and Danny Z Chen. <br>
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
+📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
 
 * **Unsupervised feature clustering improves contrastive representation learning for medical image segmentation.** <br>
 Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <br>
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
+📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
 
 
 
