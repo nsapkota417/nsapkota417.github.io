@@ -15,13 +15,13 @@ I am a Ph.D. Student in the Computer Science and Engineering Department at the U
 News
 ======
 * Nov 2023: 🤞🤞 2 papers (first author) submitted to ISBI
-* Aug 2023: 📚📚 1 paper (co-authored) accepted to Anatomical Records
+* Aug 2023: 📚📚 1 paper (co-authored) accepted to the Anatomical Records
 * May 2023: 📚📚 1 paper (co-authored) accepted to MICCAI
 * Jan 2023: 📚📚 1 paper (co-authored) accepted to ISBI
 * Oct 2022: 📚📚 2 papers (co-authored) accepted to BIBM
-* May 2021: 🎉🎉 Passed my PhD Qualifiers Exam 
-* Aug 2020: 🎉🎉 Received CSE Select Fellowship to join the PhD Program at the University of Notre Dame
-* May 2020: 🎓🎓 Graduated from the University of Southern Mississippi 🎓🎓
+* May 2021: 🎉🎉 Passed my PhD Qualifiers Exam
+* Aug 2020: 🎉🎉 Received CSE Select Fellowship & joined the PhD Program at the University of Notre Dame
+* May 2020: 🎓🎓 Graduated from the University of Southern Mississippi 
 
   
 **More Stuff**
