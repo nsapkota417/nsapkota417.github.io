@@ -13,7 +13,7 @@ Please find my full list of publications on Google Scholar.
 * **A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation**. <br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
 Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
-Submitted to IEEE International Symposium on Biomedical Imaging (ISBI), 2024
+📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [Submitted to]
 
 * <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen. Shmc-net: A mask-
 guided feature fusion network for sperm head morphology classification. Submitted to IEEE International Symposium on Biomedical Imaging (ISBI), 2024
