@@ -16,7 +16,7 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [Submitted]
 
 * **Shmc-net: A mask-guided feature fusion network for sperm head morphology classification.** <br>
-* <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
+<u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
 📚 Submitted to IEEE International Symposium on Biomedical Imaging (ISBI), 2024 [Submitted]
 
 * Yejia Zhang, Pengfei Gu, <u>Nishchal Sapkota</u>, Yaopeng Peng, Hao Zheng, and Danny Z Chen. Swipe: Eﬀicient and
