@@ -24,7 +24,5 @@ News
 * Aug 2020: 🎉🎉 Received CSE Select Fellowship & joined the PhD Program at the University of Notre Dame
 * May 2020: 🎓🎓 Graduated from the University of Southern Mississippi 
 
-  
-**More Stuff**
 
 
