@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find my full list of publications on Google Scholar.
+Please find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en)
 ---
 
 ## Conference/Journal Papers
