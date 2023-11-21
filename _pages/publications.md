@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en)
+Please find my full list of publications on the new tab [Google Scholar](https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en)
+Google Scholar <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>
+
 ---
 
 ## Conference/Journal Papers
