@@ -13,6 +13,8 @@ About
 
 I am a Ph.D. Student in the Computer Science and Engineering Department at the University of Notre Dame advised by Dr. Danny Chen. My research interests center around solving problems in Medical Image Analysis in less data regimes using different Computer Vision, Deep Learning, and Graph Techniques. I received an Undergraduate Degree in Computer Science and Mathematics from the University of Southern Mississippi.
 
+Find the pdf version <a href="Nsapkota_CV_11212023.pdf" target="_blank" rel="noopener noreferrer">here</a>. Last Updated: 07:07 am, 11/21/2023 
+
 News
 ------
 * Nov 2023: 🤞🤞 2 papers (first author) submitted to ISBI
