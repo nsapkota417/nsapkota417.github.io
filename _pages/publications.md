@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find my full list of publications on the new tab [Google Scholar](https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en) {:target="_blank"}  
+Please find my full list of publications on the new tab [Google Scholar](https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en)
  <a href="https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 
 ---
