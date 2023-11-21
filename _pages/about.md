@@ -21,8 +21,9 @@ News
 * Jan 2023: 📚📚 1 paper (co-authored) accepted to ISBI
 * Oct 2022: 📚📚 2 papers (co-authored) accepted to BIBM
 * May 2021: 🎉🎉 Passed my PhD Qualifiers Exam
-* Aug 2020: 🎉🎉 Received CSE Select Fellowship & joined the PhD Program at the University of Notre Dame
+* Aug 2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * May 2020: 🎓🎓 Graduated from the University of Southern Mississippi 
+* Apr 2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
 
 
 
