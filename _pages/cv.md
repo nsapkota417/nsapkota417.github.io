@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Find the pdf version <a href="Nsapkota_CV_11212023.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+Find the pdf version <a href="nsapkota417.github.io/_pages/Nsapkota_CV_11212023.pdf" target="_blank" rel="noopener noreferrer">here</a>.
