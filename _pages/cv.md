@@ -10,5 +10,5 @@ redirect_from:
 Find the pdf version: [here](Nsapkota_CV_11212023.pdf)
 
 CV:
-<embed src="Nsapkota_CV_11212023.pdf" width="800px" height="2100px" />
+<iframe src="Nsapkota_CV_11212023.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
 
