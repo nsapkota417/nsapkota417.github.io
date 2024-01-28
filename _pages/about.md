@@ -17,15 +17,15 @@ Find the pdf version of my CV <a href="Nsapkota_CV.pdf" target="_blank" rel="noo
 
 News
 ------
-* Nov 2023: 🤞🤞 2 papers (first author) submitted to ISBI
-* Aug 2023: 📚📚 1 paper (co-authored) accepted to the Anatomical Records
-* May 2023: 📚📚 1 paper (co-authored) accepted to MICCAI
-* Jan 2023: 📚📚 1 paper (co-authored) accepted to ISBI
-* Oct 2022: 📚📚 2 papers (co-authored) accepted to BIBM
-* May 2021: 🎉🎉 Passed my PhD Qualifiers Exam
-* Aug 2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
-* May 2020: 🎓🎓 Graduated from the University of Southern Mississippi 
-* Apr 2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
+* 11/2023: 🤞🤞 2 papers (first author) submitted to ISBI
+* 08/2023: 📚📚 1 paper (co-authored) accepted to the Anatomical Records
+* 05/2023: 📚📚 1 paper (co-authored) accepted to MICCAI
+* 01/2023: 📚📚 1 paper (co-authored) accepted to ISBI
+* 10/2022: 📚📚 2 papers (co-authored) accepted to BIBM
+* 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
+* 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
+* 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi 
+* 04/2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
 
 
 
