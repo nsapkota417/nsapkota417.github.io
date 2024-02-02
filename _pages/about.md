@@ -17,7 +17,7 @@ Find the pdf version of my CV <a href="Nsapkota_CV.pdf" target="_blank" rel="noo
 
 News
 ------
-* 11/2023: 🤞🤞 2 papers (first author) submitted to ISBI
+* 11/2023: 📚📚 2 papers (first author) accepted to ISBI
 * 08/2023: 📚📚 1 paper (co-authored) accepted to the Anatomical Records
 * 05/2023: 📚📚 1 paper (co-authored) accepted to MICCAI
 * 01/2023: 📚📚 1 paper (co-authored) accepted to ISBI
