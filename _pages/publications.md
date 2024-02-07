@@ -11,12 +11,12 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 ## Conference/Journal Papers
 
-* **ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation**. <br>
+* <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer">**ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
 Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
-* **SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** <br>
+* <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
