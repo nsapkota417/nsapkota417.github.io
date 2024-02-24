@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nishchal Sapkota"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nishchal Sapkota"
 description              : &description "personal description"
