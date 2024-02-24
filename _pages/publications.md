@@ -18,6 +18,10 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 
 * <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
+📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
+
+* <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**Boosting medical image classification with segmentation foundation model.** </a><br>
+Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, <u>Nishchal Sapkota</u>, and Danny Z Chen. <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
 * <a href="https://arxiv.org/pdf/2307.12429.pdf" target="_blank" rel="noopener noreferrer">**Swipe: Eﬀicient and robust medical image segmentation with implicit patch embeddings.** </a><br>
