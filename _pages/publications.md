@@ -20,6 +20,10 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
+* **Path‐GPTOmic: A balanced multi‐modal learning framework for survival outcome prediction.**<br>
+Hongxiao Wang, Yang Yang, Zhuo Zhao, Pengfei Gu, <u>Nishchal Sapkota</u>, and Danny Z Chen <br>
+📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
+
 * **Boosting medical image classification with segmentation foundation model.**<br>
 Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, <u>Nishchal Sapkota</u>, and Danny Z Chen. <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
