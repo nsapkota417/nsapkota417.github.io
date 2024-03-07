@@ -17,7 +17,7 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
 * <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** </a><br>
-<u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, and Danny Z Chen.  <br>
+<u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
 * **Path‐GPTOmic: A balanced multi‐modal learning framework for survival outcome prediction.**<br>
