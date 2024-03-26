@@ -20,7 +20,7 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
-* **Path‐GPTOmic: A balanced multi‐modal learning framework for survival outcome prediction.**<br>
+* <a href="https://arxiv.org/pdf/2403.11375.pdf" target="_blank" rel="noopener noreferrer">**Path‐GPTOmic: A balanced multi‐modal learning framework for survival outcome prediction.**</a><br>
 Hongxiao Wang, Yang Yang, Zhuo Zhao, Pengfei Gu, <u>Nishchal Sapkota</u>, and Danny Z Chen <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
