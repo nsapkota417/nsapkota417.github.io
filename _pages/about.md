@@ -18,7 +18,7 @@ Currently searching for internships 😊
 
 News
 ------
-* 02/2024: 📚📚 2 papers (first author) & 2 papers (co-authored)  accepted to ISBI (3 orals, 15% acceptance rate)
+* 02/2024: 📚📚 4 papers accepted to ISBI (3 orals, 15% acceptance rate)
 * 08/2023: 📚📚 1 paper accepted to the Anatomical Records
 * 05/2023: 📚📚 1 paper accepted to MICCAI
 * 01/2023: 📚📚 1 paper accepted to ISBI (oral, 15% acceptance rate)
