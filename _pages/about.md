@@ -13,6 +13,9 @@ About
 
 I am a Ph.D. Student in the Computer Science and Engineering Department at the University of Notre Dame advised by Dr. Danny Chen. My research interests center around designing novel methods using different Computer Vision, Deep Learning, and Graph Techniques to solve problems in Medical Image Analysis. I received an Undergraduate Degree in Computer Science and Mathematics from the University of Southern Mississippi.
 
+Currently searching for internships 😊
+
+
 News
 ------
 * 02/2024: 📚📚 2 papers (first author) & 2 papers (co-authored)  accepted to ISBI (3 orals, 15% acceptance rate)
