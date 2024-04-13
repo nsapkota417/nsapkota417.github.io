@@ -16,10 +16,10 @@ I am a Ph.D. Student in the Computer Science and Engineering Department at the U
 News
 ------
 * 02/2024: 📚📚 2 papers (first author) & 2 papers (co-authored)  accepted to ISBI (3 orals, 15% acceptance rate)
-* 08/2023: 📚📚 1 paper (co-authored) accepted to the Anatomical Records
-* 05/2023: 📚📚 1 paper (co-authored) accepted to MICCAI
-* 01/2023: 📚📚 1 paper (co-authored) accepted to ISBI
-* 10/2022: 📚📚 2 papers (co-authored) accepted to BIBM
+* 08/2023: 📚📚 1 paper accepted to the Anatomical Records
+* 05/2023: 📚📚 1 paper accepted to MICCAI
+* 01/2023: 📚📚 1 paper accepted to ISBI (oral, 15% acceptance rate)
+* 10/2022: 📚📚 2 papers accepted to BIBM (20% acceptance rate)
 * 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi 
