@@ -18,6 +18,7 @@ Currently searching for internships. 😊
 
 News
 ------
+* 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI. 
 * 02/2024: 📚📚 4 papers accepted to ISBI (3 orals, 15% acceptance rate)
 * 08/2023: 📚📚 1 paper accepted to the Anatomical Records
 * 05/2023: 📚📚 1 paper accepted to MICCAI
