@@ -18,7 +18,7 @@ I am currently searching for internships. 😊
 
 News
 ------
-* 08/2020: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
+* 08/2024: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
 * 06/2024: 📚📚 1 paper accepted to MICCAI 2024
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
 * 02/2024: 📚📚 4 papers accepted to ISBI 2024 (3 orals, _15% acceptance rate_)
