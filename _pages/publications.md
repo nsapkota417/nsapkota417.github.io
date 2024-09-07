@@ -11,6 +11,11 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 ## Conference/Journal Papers
 
+* <a href="https://www.cs.jhu.edu/~lelu/publication/MICCAI2024-0495.pdf" target="_blank" rel="noopener noreferrer">**IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.** </a><br>
+Yejia Zhang, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, <u>Nishchal Sapkota</u>, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang
+Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
+📚 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
+
 * <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer">**ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
 Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
