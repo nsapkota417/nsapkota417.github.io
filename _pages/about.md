@@ -11,10 +11,9 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Notre Dame, where I am advised by Dr. Danny Chen. My research focuses on developing novel methods using Computer Vision, Deep Learning, Self-supervised Learning, and Graph Techniques to tackle challenges in Medical Image Analysis and build robust, automated tools for healthcare. I received my MS degree in CSE from the University of Notre Dame and an undergraduate degree in Computer Science and Mathematics from the University of Southern Mississippi.
+I am a Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Notre Dame, where I am advised by Dr. Danny Chen. My research focuses on developing novel methods using Computer Vision, Deep Learning, Self-supervised Learning, and Graph Techniques to tackle challenges in Medical Image Analysis and build robust, automated tools for healthcare. I received my M.S. in CSE from the University of Notre Dame and my B.S. in Computer Science and Mathematics from the University of Southern Mississippi.
 
-I am currently searching for internships. 😊
-
+I am currently searching for 2025 internships. 😊
 
 News
 ------
