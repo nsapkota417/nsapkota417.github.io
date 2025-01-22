@@ -17,6 +17,7 @@ I am currently searching for 2025 summer internships. 😊
 
 News
 ------
+* 01/2025: 👨🏻‍💻👨🏻‍💻 Started working at **Mayo Clinic** as a Computational Pathology and AI intern
 * 08/2024: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
 * 06/2024: 📚📚 1 paper accepted to MICCAI 2024
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
@@ -29,6 +30,3 @@ News
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi 
 * 04/2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
-
-
-
