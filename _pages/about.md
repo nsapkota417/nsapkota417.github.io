@@ -18,7 +18,7 @@ I am currently searching for 2025 summer internships. 😊
 News
 ------
 * 01/2025: 📚📚 1 paper accepted to Nature Scientific Reports
-* 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic** as a 
+* 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 * 08/2024: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
 * 06/2024: 📚📚 1 paper accepted to MICCAI 2024
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
