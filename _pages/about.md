@@ -17,16 +17,16 @@ I am currently searching for 2026 Full Time Roles. 😊
 
 News
 ------
-* 01/2025: 📚📚 1 paper accepted to Nature Scientific Reports
+* 01/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 * 08/2024: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
-* 06/2024: 📚📚 1 paper accepted to MICCAI 2024
+* 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
-* 02/2024: 📚📚 4 papers accepted to ISBI 2024 (3 orals, _15% acceptance rate_)
-* 08/2023: 📚📚 1 paper accepted to the Anatomical Records
-* 05/2023: 📚📚 1 paper accepted to MICCAI 2023
-* 01/2023: 📚📚 1 paper accepted to ISBI 2023 (oral, _15% acceptance rate_)
-* 10/2022: 📚📚 2 papers accepted to BIBM 2022 (_20% acceptance rate_)
+* 02/2024: 📚📚 4 papers accepted to **ISBI 2024** (3 orals, _15% acceptance rate_)
+* 08/2023: 📚📚 1 paper accepted to the **Anatomical Records**
+* 05/2023: 📚📚 1 paper accepted to **MICCAI 2023**
+* 01/2023: 📚📚 1 paper accepted to **ISBI 2023** (oral, _15% acceptance rate_)
+* 10/2022: 📚📚 2 papers accepted to **BIBM 2022** (_20% acceptance rate_)
 * 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from the University of Southern Mississippi 
