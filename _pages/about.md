@@ -13,10 +13,11 @@ About
 
 I am a Ph.D. candidate in the Department of Computer Science and Engineering (CSE) at the University of Notre Dame, where I am advised by Dr. Danny Chen. My research focuses on developing novel methods using Computer Vision, Deep Learning, Self-supervised Learning, and Graph Techniques to tackle challenges in Medical Image Analysis and build robust, automated, and data-efficient healthcare tools. I received my M.S. in CSE from the University of Notre Dame and my B.S. in Computer Science and Mathematics from the University of Southern Mississippi.
 
-I am currently searching for 2026 Full Time Roles. 😊
+I am currently searching for 2026 Full-Time Roles. 😊
 
 News
 ------
+* 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
 * 01/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 * 08/2024: 🎓🎓 Successfully defended my Ph.D. Candidacy Exam 
