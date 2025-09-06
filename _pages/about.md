@@ -11,7 +11,7 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in the Department of Computer Science and Engineering at the University of Notre Dame, advised by Dr. Danny Chen. My research focuses on AI for healthcare and medical image analysis, where I develop novel methods using Computer Vision, Deep Learning, Self-supervised Learning, Graph Techniques, and Foundation Models. I work on data-efficient 3D segmentation, multimodal learning for reproductive health, foundation model approaches for cancer, surgical video segmentation, and diffusion-based super-resolution. I have published 14+ papers with hospital and biology lab collaborators and mentored 5+ students to publications and industry roles. I hold an M.S. in CSE from the University of Notre Dame and a B.S. in Computer Science and Mathematics from the University of Southern Mississippi.
+I am a Ph.D. candidate in the Department of Computer Science and Engineering at the University of Notre Dame, advised by Dr. Danny Chen. My research focuses on AI for healthcare and medical image analysis, where I develop novel methods using Computer Vision, Deep Learning, Self-supervised Learning, Graph Techniques, and Foundation Models. I work on data-efficient 3D segmentation, multimodal learning for reproductive health, foundation model approaches for cancer, surgical video segmentation, and diffusion-based super-resolution. I have published 14+ papers with hospital and biology lab collaborators and mentored 5+ students to publications and industry roles. I hold an M.S. degree in CSE from the University of Notre Dame, a B.S. degree in Computer Science and a B.S. degree in Mathematics from the University of Southern Mississippi.
 
 I am currently searching for 2026 Full-Time Roles. 😊
 
