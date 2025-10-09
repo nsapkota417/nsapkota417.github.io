@@ -20,7 +20,7 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
   <!-- Left column: thumbnail -->
   <div style="flex:0 0 150px; margin-right:15px;">
-    <img src="/assets/images/publications/unicon.png" alt="UniCoN" width="150">
+    <img src="images/unicon.jpg" alt="UniCoN" width="150">
   </div>
 
   <!-- Right column: publication text -->
