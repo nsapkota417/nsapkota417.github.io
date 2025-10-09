@@ -16,23 +16,28 @@ Please find my full list of publications on the <a href="https://scholar.google.
 <u>Nishchal Sapkota</u>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen <br>
 📚 Nature Scientific Reports, 2024
 
-<div style="display:flex; align-items:flex-start; margin-bottom:20px;">
+<div style="display:flex; align-items:flex-start; margin-bottom:30px;">
 
   <!-- Left column: thumbnail -->
-  <div style="flex:0 0 150px; margin-right:15px;">
-    <img src="images/unicon.jpg" alt="UniCoN" width="150">
+  <div style="flex:0 0 160px; margin-right:20px;">
+    <img src="/images/unicon.jpg" alt="UniCoN" style="width:160px; border:1px solid #ddd; border-radius:4px;">
   </div>
 
   <!-- Right column: publication text -->
   <div>
-    <a href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer">
-      <strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong>
+    <a href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer" style="font-size:16px; font-weight:600;">
+      UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.
     </a><br>
-    <u>Nishchal Sapkota</u>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen<br>
-    📚 Nature Scientific Reports, 2024
+    <span style="font-size:14px;">
+      <u>Nishchal Sapkota</u>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen
+    </span><br>
+    <span style="font-size:14px; color:#555;">
+      📚 Nature Scientific Reports, 2024
+    </span>
   </div>
 
 </div>
+
 
 * <a href="https://www.cs.jhu.edu/~lelu/publication/MICCAI2024-0495.pdf" target="_blank" rel="noopener noreferrer">**IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.** </a><br>
 Yejia Zhang, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, <u>Nishchal Sapkota</u>, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang <br>
