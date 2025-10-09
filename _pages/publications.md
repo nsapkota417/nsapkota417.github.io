@@ -17,7 +17,7 @@ Please find my full list of publications on the <a href="https://scholar.google.
 📚 Nature Scientific Reports, 2024
 
 * <a href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/publications/unicon.png" alt="UniCoN paper" width="150" style="margin-right:10px; float:left;" />
+  <img src="images/unicon.png" alt="UniCoN paper" width="150" style="margin-right:10px; float:left;" />
   **UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.**
   </a><br>
   <u>Nishchal Sapkota</u>, Yejia Zhang, ... <br>
