@@ -19,7 +19,7 @@ I am currently searching for 2026 Full-Time Roles. 😊
 
 News
 ------
-* 11/2025: 📚 New pre-print released — check out our new **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST model</a>**
+* 11/2025: 📚📚 New pre-print released — check out our new **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST model</a>**
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
 * 02/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
