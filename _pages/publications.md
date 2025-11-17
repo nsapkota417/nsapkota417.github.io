@@ -68,7 +68,7 @@ Susan M Motch Perrine, <u>Nishchal Sapkota</u>, Kazuhiko Kawasaki, Yejia Zhang, 
 Emily Durham, Yann Heuze, Laurence Legeai-Mallet, and Joan T Richtsmeier. <br>
 📚 Anatomical Record, 2023
 
-## Mathematical Modeling:
+## Applied Statistics & Mathematical Modeling:
 
 * <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1695&context=honors_theses" target="_blank" rel="noopener noreferrer">**Probabilistic Analysis of Revenues in Online Games.**</a> <br>
 <u>Nishchal Sapkota</u>, and Bernd Schroeder. <br>
