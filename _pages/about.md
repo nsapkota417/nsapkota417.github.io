@@ -40,11 +40,11 @@ News
 Selected Publications
 ------
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/paper/revocable.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/ukast.pdf" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Deep CNN Face Matchers Inherently Support Revocable Biometric Templates</strong><br>
-    <strong><u>Aman Bhatta</u></strong>, Michael C. King, Kevin W. Bowyer <br>
-    <em> IEEE Automatic Face and Gesture Recognition </em> (FG), 2025. (Oral 🏆)<br>
+    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
+    <strong><u>Nishchal Sapkota</u></strong>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
+    <em> arXiv </em> (FG), 2025.<br>
     <a href="[Link to paper]" target="_blank">Paper Soon</a> | <a href="https://github.com/abhatta1234/Revocable-Biometrics" target="_blank">Code</a>
   </div>
 </div>
