@@ -22,7 +22,7 @@ I have published **15+ papers** in collaboration with hospital, biology, and ant
 
 I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**, and a **B.S. in Mathematics** from the University of Southern Mississippi.
 
-Alongside my research, I gained industry experience at **Mayo Clinic** and **IBM**. At Mayo Clinic, I developed <u> generalist pathology foundation models </u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I modeled user decision paths from large-scale clickstream data using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies in cross-functional teams.
+Alongside my research, I gained industry experience at **Mayo Clinic** and **IBM**. At Mayo Clinic, I developed <u> generalist pathology foundation models</u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I <u> modeled user decision paths from large-scale clickstream data </u> using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies across cross-functional teams.
 
 I am currently searching for 2026 Full-Time Roles. 😊
 
