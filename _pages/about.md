@@ -44,7 +44,7 @@ Selected Publications
   <div>
     <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
     <strong><u>Nishchal Sapkota</u></strong>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
-    <em> arXiv </em> (FG), 2025.<br>
-    <a href="[Link to paper]" target="_blank">Paper Soon</a> | <a href="https://github.com/abhatta1234/Revocable-Biometrics" target="_blank">Code</a>
+    <em> arXiv </em> 2025.<br>
+    <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
   </div>
 </div>
