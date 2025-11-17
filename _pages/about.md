@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at the **University o
   - **Data-efficient 3D segmentation**
   - **Multimodal learning**
   - **Surgical video segmentation**
-  - **Data-prior–guided deep learning vision architectures**
+  - **Data-prior guided deep learning vision architectures**
 
 I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure strong industry roles.
 
