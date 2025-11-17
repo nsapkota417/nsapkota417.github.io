@@ -11,7 +11,24 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in Computer Science and Engineering at the **University of Notre Dame**, advised by Dr. Danny Chen. I build scalable computer vision models for real-world, limited-data applications—especially in healthcare. My research in AI for healthcare and medical image analysis spans **self-supervised foundation models**, **data-efficient 3D segmentation**, **multimodal learning**,  **surgical video segmentation**, and **data-prior–guided deep learning vision architectures**. I have published 15+ papers in collaboration with hospital, biology, and anthropology labs, and mentored 5+ students who went on to publish ML research and secure industry roles. I hold an **M.S. degree in CSE** from the University of Notre Dame, a **B.S. degree in Computer Science**, and a **B.S. degree in Mathematics** from the University of Southern Mississippi.
+- I am a Ph.D. candidate in Computer Science and Engineering at the **University of Notre Dame**, advised by Dr. Danny Chen.
+
+- I build scalable computer vision models for real-world, limited-data applications—especially in healthcare.
+
+- My research spans:
+  - **Self-supervised foundation models**
+  - **Data-efficient 3D segmentation**
+  - **Multimodal learning**
+  - **Surgical video segmentation**
+  - **Data-prior–guided deep learning vision architectures**
+
+- I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs.
+
+- I have mentored **5+ students** who went on to publish ML research and secure strong industry roles.
+
+- I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**,  
+  and a **B.S. in Mathematics** from the University of Southern Mississippi.
+
 
 Alongside my research, I gained industry experience at **Mayo Clinic** and **IBM**. At Mayo Clinic, I developed <u> generalist pathology foundation models </u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I modeled user decision paths from large-scale clickstream data using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies in cross-functional teams.
 
