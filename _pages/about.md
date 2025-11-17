@@ -15,6 +15,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https
   - **Self-supervised multimodal learning and vision foundation models**
   - **Data-efficient 3D image and surgical video segmentation**
   - **Data-prior guided vision architectures**
+  - **AI for healthcare**
 
 Alongside my research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>. At Mayo Clinic, I developed <u> generalist pathology foundation models</u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I <u> modeled user decision paths from large-scale clickstream data </u> using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies across cross-functional teams.
 
