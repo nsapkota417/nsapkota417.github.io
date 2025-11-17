@@ -43,38 +43,42 @@ Selected Publications
   <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
-    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+    <em> arXiv 2025.</em><a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
   </div>
 </div>
+
 ------
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong><br>
-    <em> Nature Scientific Reports </em> 2025. <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
+    <em> Nature Scientific Reports 2024.</em> <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
   </div>
 </div>
-------
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
-    <em> MICCAI </em> 2023. <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper </a> | <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
-  </div>
-</div>
-------
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
-    <em> IEEE BIBM 2022 </em> 2025. <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
-  </div>
-</div>
+
 ------
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.</strong><br>
-    <em> IEEE ISBI 2024 </em> 2025. <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
+    <em>IEEE ISBI 2024.</em> <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
+  </div>
+</div>
+
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
+    <em> MICCAI 2023.</em> <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper </a> | <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
+  </div>
+</div>
+
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
+    <em>IEEE BIBM 2022</em>. <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
   </div>
 </div>
