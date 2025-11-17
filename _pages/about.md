@@ -11,7 +11,7 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in Computer Science and Engineering at the University of Notre Dame, advised by Dr. Danny Chen. I build scalable computer vision models for real-world, limited-data applications—especially in healthcare. My research in AI for healthcare and medical image analysis spans self-supervised foundation models, data-efficient 3D segmentation, multimodal learning,  surgical video segmentation, and data-prior–guided deep learning vision architectures. I have published 14+ papers in collaboration with hospital, biology, and anthropology labs, and mentored 5+ students who went on to publish and secure industry roles. 
+I am a Ph.D. candidate in Computer Science and Engineering at the University of Notre Dame, advised by Dr. Danny Chen. I build scalable computer vision models for real-world, limited-data applications—especially in healthcare. My research in AI for healthcare and medical image analysis spans self-supervised foundation models, data-efficient 3D segmentation, multimodal learning,  surgical video segmentation, and data-prior–guided deep learning vision architectures. I have published 15+ papers in collaboration with hospital, biology, and anthropology labs, and mentored 5+ students who went on to publish and secure industry roles. 
 
 I hold an M.S. degree in CSE from the University of Notre Dame, a B.S. degree in Computer Science, and a B.S. degree in Mathematics from the University of Southern Mississippi.
 
