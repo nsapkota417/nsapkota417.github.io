@@ -40,7 +40,7 @@ News
 Selected Publications
 ------
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/ukast.pdf" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
     <strong><u>Nishchal Sapkota</u></strong>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
