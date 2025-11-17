@@ -36,3 +36,15 @@ News
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
 * 04/2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
+
+Selected Publications
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/paper/revocable.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>Deep CNN Face Matchers Inherently Support Revocable Biometric Templates</strong><br>
+    <strong><u>Aman Bhatta</u></strong>, Michael C. King, Kevin W. Bowyer <br>
+    <em> IEEE Automatic Face and Gesture Recognition </em> (FG), 2025. (Oral 🏆)<br>
+    <a href="[Link to paper]" target="_blank">Paper Soon</a> | <a href="https://github.com/abhatta1234/Revocable-Biometrics" target="_blank">Code</a>
+  </div>
+</div>
