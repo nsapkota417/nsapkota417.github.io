@@ -11,7 +11,7 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in Computer Science and Engineering at the **University of Notre Dame**, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank"> Dr. Danny Chen</a>. I build scalable computer vision models for real-world, limited-data applications -- especially in healthcare. My research spans:
+I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank"> Dr. Danny Chen</a>. I build scalable computer vision models for real-world, limited-data applications -- especially in healthcare. My research spans:
   - **Self-supervised foundation models**
   - **Data-efficient 3D segmentation**
   - **Multimodal learning**
