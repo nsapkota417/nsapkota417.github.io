@@ -61,6 +61,10 @@ Yejia Zhang, <u>Nishchal Sapkota</u>,  Pengfei Gu, Yaopeng Peng, Hao Zheng, and 
 Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <br>
 📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
 
+* <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1695&context=honors_theses" target="_blank" rel="noopener noreferrer">**Probabilistic Analysis of Revenues in Online Games.**</a> <br>
+<u>Nishchal Sapkota</u>, and Bernd Schroeder. <br>
+📚 University of Southern Mississippi, 2020
+
 
 
 
