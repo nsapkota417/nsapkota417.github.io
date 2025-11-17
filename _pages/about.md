@@ -17,7 +17,7 @@ I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https
   - **Data-prior guided vision architectures**
   - **Multimodal learning**
 
-I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure strong industry roles.
+I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure academic/industry placements.
 
 I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**, and a **B.S. in Mathematics** from the <a href="https://www.usm.edu/
 " target="_blank">**University of Southern Mississippi**</a>.
