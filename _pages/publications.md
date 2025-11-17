@@ -44,7 +44,7 @@ Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <
 ## Medical Image Analysis & Computational Pathology:
 
 
-* <a href="" target="_blank" rel="noopener noreferrer">**H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction.** </a><br>
+* **H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction.** <br>
 Xueyang Li, Zongren Wang, Yuliang Zhang, Zixuan Pan, Yu-Jen Chen, <u>Nishchal Sapkota</u>, Gelei Xu, Danny Z. Chen, and Yiyu Shi.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
