@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "nsapkota | I spend my days training AI and my nights praying it doesn’t take my job."
+title                    : 'nsapkota | Home'# "nsapkota | I spend my days training AI and my nights praying it doesn’t take my job."
 title_separator          : "-"
 name                     : &name "Nishchal Sapkota"
 description              : &description "personal description"
