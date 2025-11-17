@@ -20,7 +20,8 @@ I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https
 
 I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure strong industry roles.
 
-I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**, and a **B.S. in Mathematics** from the University of Southern Mississippi.
+I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**, and a **B.S. in Mathematics** from the <a href="https://www.usm.edu/
+" target="_blank">**University of Southern Mississippi**</a>.
 
 Alongside my research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>. At Mayo Clinic, I developed <u> generalist pathology foundation models</u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I <u> modeled user decision paths from large-scale clickstream data </u> using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies across cross-functional teams.
 
