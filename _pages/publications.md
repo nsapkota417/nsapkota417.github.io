@@ -65,6 +65,11 @@ Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <
 <u>Nishchal Sapkota</u>, and Bernd Schroeder. <br>
 📚 University of Southern Mississippi, 2020
 
+* <a href="https://arxiv.org/pdf/2006.16525" target="_blank" rel="noopener noreferrer">**Hunting Co-operation in the Middle Predator in Three Species Food Chain Model
+.**</a> <br>
+<u>Nishchal Sapkota</u>, Rimsha Bhatta, Phillip Dabney, and Zhifu Xie. <br>
+📚 Proceedings of the Louisiana-Mississippi Section of the Mathematical Association of America, 2020
+
 
 
 
