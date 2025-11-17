@@ -19,10 +19,6 @@ Please find my full list of publications on the <a href="https://scholar.google.
 <u>Nishchal Sapkota</u>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen <br>
 📚 Nature Scientific Reports, 2024
 
-* <a href="https://www.cs.jhu.edu/~lelu/publication/MICCAI2024-0495.pdf" target="_blank" rel="noopener noreferrer">**IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.** </a><br>
-Yejia Zhang, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, <u>Nishchal Sapkota</u>, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang <br>
-📚 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
-
 * <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer">**ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
 Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
@@ -32,13 +28,17 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z 
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
+* <a href="https://www.cs.jhu.edu/~lelu/publication/MICCAI2024-0495.pdf" target="_blank" rel="noopener noreferrer">**IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.** </a><br>
+Yejia Zhang, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, <u>Nishchal Sapkota</u>, Pengfei Gu, Danny Z Chen, Le Lu, Ke Yan, Dakai Jin, Yun Bian, Hui Jiang <br>
+📚 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024
+
 * <a href="https://arxiv.org/pdf/2403.11375.pdf" target="_blank" rel="noopener noreferrer">**Path‐GPTOmic: A balanced multi‐modal learning framework for survival outcome prediction.**</a><br>
 Hongxiao Wang, Yang Yang, Zhuo Zhao, Pengfei Gu, <u>Nishchal Sapkota</u>, and Danny Z Chen <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
 
 * <a href="https://www3.nd.edu/~cwang11/research/isbi24-sfm.pdf" target="_blank" rel="noopener noreferrer">**Boosting medical image classification with segmentation foundation model.**</a><br>
 Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, <u>Nishchal Sapkota</u>, and Danny Z Chen. <br>
-📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
+📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
 
 * <a href="https://arxiv.org/pdf/2307.12429.pdf" target="_blank" rel="noopener noreferrer">**Swipe: Eﬀicient and robust medical image segmentation with implicit patch embeddings.** </a><br>
 Yejia Zhang, Pengfei Gu, <u>Nishchal Sapkota</u>, Yaopeng Peng, Hao Zheng, and Danny Z Chen.  <br>
