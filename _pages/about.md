@@ -46,3 +46,35 @@ Selected Publications
     <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
   </div>
 </div>
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
+    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+  </div>
+</div>
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
+    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+  </div>
+</div>
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
+    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+  </div>
+</div>
+------
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.</strong><br>
+    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
+  </div>
+</div>
