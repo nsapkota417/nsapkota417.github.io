@@ -12,10 +12,9 @@ About
 ======
 
 I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank"> Dr. Danny Chen</a>. I build scalable computer vision models for real-world, limited-data applications -- especially in healthcare. My research spans:
-  - **Self-supervised learning and vision foundation models**
+  - **Self-supervised multimodal learning and vision foundation models**
   - **Data-efficient 3D image and surgical video segmentation**
   - **Data-prior guided vision architectures**
-  - **Multimodal learning**
 
 I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure academic/industry placements.
 
