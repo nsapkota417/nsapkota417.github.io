@@ -43,8 +43,6 @@ Selected Publications
   <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
-    <strong><u>Nishchal Sapkota</u></strong>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
-    <em> arXiv </em> 2025.<br>
-    <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+    <em> arXiv </em> 2025. <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
   </div>
 </div>
