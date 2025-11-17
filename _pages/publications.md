@@ -11,6 +11,9 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 ## Conference/Journal Papers
 
+
+Transformer-Based Segmentation Architectures:
+
 * <a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer">**When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
 📚 arXiv, 2025
@@ -21,8 +24,26 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 * <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer">**ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
-Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier and Danny Z Chen.  <br>
+Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier, and Danny Z Chen.  <br>
 📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024 
+
+
+Self-supervised Learning:
+
+* <a href="https://arxiv.org/pdf/2211.08533.pdf" target="_blank" rel="noopener noreferrer">**A point in the right direction: Vector prediction for spatially-aware self-supervised volumetric representation learning.**</a> <br>
+Yejia Zhang, Pengfei Gu, <u>Nishchal Sapkota</u>,  Hao Zheng, Peixian Liang, and Danny Z Chen. <br>
+📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2023
+
+* <a href="https://arxiv.org/pdf/2211.08643.pdf" target="_blank" rel="noopener noreferrer">**Keep your friends close & enemies farther: Debiasing contrastive learning with spatial priors in 3d radiology images.** </a><br>
+Yejia Zhang, <u>Nishchal Sapkota</u>,  Pengfei Gu, Yaopeng Peng, Hao Zheng, and Danny Z Chen. <br>
+📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
+
+* <a href="https://arxiv.org/pdf/2211.08557.pdf" target="_blank" rel="noopener noreferrer">**Unsupervised feature clustering improves contrastive representation learning for medical image segmentation.**</a> <br>
+Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <br>
+📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
+
+
+Disease-specific Deep Learning Models:
 
 * <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, and Danny Z Chen.  <br>
@@ -49,17 +70,7 @@ Susan M Motch Perrine, <u>Nishchal Sapkota</u>, Kazuhiko Kawasaki, Yejia Zhang, 
 Emily Durham, Yann Heuze, Laurence Legeai-Mallet, and Joan T Richtsmeier. <br>
 📚 Anatomical Record, 2023
 
-* <a href="https://arxiv.org/pdf/2211.08533.pdf" target="_blank" rel="noopener noreferrer">**A point in the right direction: Vector prediction for spatially-aware self-supervised volumetric representation learning.**</a> <br>
-Yejia Zhang, Pengfei Gu, <u>Nishchal Sapkota</u>,  Hao Zheng, Peixian Liang, and Danny Z Chen. <br>
-📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2023
-
-* <a href="https://arxiv.org/pdf/2211.08643.pdf" target="_blank" rel="noopener noreferrer">**Keep your friends close & enemies farther: Debiasing contrastive learning with spatial priors in 3d radiology images.** </a><br>
-Yejia Zhang, <u>Nishchal Sapkota</u>,  Pengfei Gu, Yaopeng Peng, Hao Zheng, and Danny Z Chen. <br>
-📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
-
-* <a href="https://arxiv.org/pdf/2211.08557.pdf" target="_blank" rel="noopener noreferrer">**Unsupervised feature clustering improves contrastive representation learning for medical image segmentation.**</a> <br>
-Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <br>
-📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022
+Mathematical Modeling:
 
 * <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1695&context=honors_theses" target="_blank" rel="noopener noreferrer">**Probabilistic Analysis of Revenues in Online Games.**</a> <br>
 <u>Nishchal Sapkota</u>, and Bernd Schroeder. <br>
