@@ -52,7 +52,7 @@ Selected Publications
   <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong><br>
-    <em> Nature Scientific Reports 2024.</em> <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
+    <em> Nature Scientific Reports 2025.</em> <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
   </div>
 </div>
 
