@@ -46,7 +46,7 @@ Yejia Zhang, Xinrong Hu, <u>Nishchal Sapkota</u>,  Yiyu Shi, and Danny Z Chen. <
 
 * **H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction.** <br>
 Xueyang Li, Zongren Wang, Yuliang Zhang, Zixuan Pan, Yu-Jen Chen, <u>Nishchal Sapkota</u>, Gelei Xu, Danny Z. Chen, and Yiyu Shi.  <br>
-📚 IEEE International Symposium on Biomedical Imaging (ISBI), 2024
+📚 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025
 
 * <a href="https://arxiv.org/pdf/2402.03697.pdf" target="_blank" rel="noopener noreferrer">**SHMC-Net: A mask-guided feature fusion network for sperm head morphology classification.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Sirui Li, Peixian Liang, Zhuo Zhao, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, and Danny Z Chen.  <br>
