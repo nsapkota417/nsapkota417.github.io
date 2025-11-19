@@ -36,7 +36,7 @@ News
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details>
-<summary><b> 📆 Previous Years (2020–2023)</b></summary>
+<summary><b> 📆 Previous Years (2020–2024)</b></summary>
   
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
 * 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
