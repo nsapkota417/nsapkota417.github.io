@@ -33,6 +33,9 @@ News
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
 * 02/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
+
+<details>
+<summary><b>Show Recent Updates</b></summary>
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
 * 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
@@ -45,6 +48,7 @@ News
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
 * 04/2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
+</details>
 
 Selected Publications
 ------
