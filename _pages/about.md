@@ -28,7 +28,7 @@ I am currently searching for 2026 Full-Time Roles. 😊
 
 News
 ------
-### 📌 Recent Updates (2024–2025)
+### 📌 Recent Updates (2025)
 * 11/2025: 📚📚 New pre-print released — check out our new **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST model</a>**
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
@@ -36,7 +36,7 @@ News
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details>
-<summary><b> ### 📆 Previous Years (2020–2023)</b></summary>
+<summary><b> 📆 Previous Years (2020–2023)</b></summary>
   
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
 * 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
