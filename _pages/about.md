@@ -30,6 +30,7 @@ News
 ------
 ### 📌 Recent Updates (2025)
 * 11/2025: 📚📚 New pre-print released — check out our new **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST model</a>**
+* 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
 * 02/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
@@ -41,11 +42,11 @@ News
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
 * 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
-* 02/2024: 📚📚 4 papers accepted to **ISBI 2024** (3 orals, _15% acceptance rate_)
+* 02/2024: 📚📚 4 papers accepted to **ISBI 2024** (3 orals)
 * 08/2023: 📚📚 1 paper accepted to the **Anatomical Records**
 * 05/2023: 📚📚 1 paper accepted to **MICCAI 2023**
-* 01/2023: 📚📚 1 paper accepted to **ISBI 2023** (oral, _15% acceptance rate_)
-* 10/2022: 📚📚 2 papers accepted to **BIBM 2022** (_20% acceptance rate_)
+* 01/2023: 📚📚 1 paper accepted to **ISBI 2023** (oral)
+* 10/2022: 📚📚 2 papers accepted to **BIBM 2022** 
 * 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
