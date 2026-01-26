@@ -13,12 +13,12 @@ Please find my full list of publications on the <a href="https://scholar.google.
 ## Transformer-Based Segmentation Architectures:
 
 * <a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer">**When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.** </a><br>
-<u>Nishchal Sapkota</u>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Danny Z. Chen <br>
-📚 arXiv, 2025
+<u>Nishchal Sapkota</u>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Fabian Vazquez, Pengfei Gu, Danny Z. Chen <br>
+📚 IEEE ISBI, 2026
 
 * <a href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer">**UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen <br>
-📚 Nature Scientific Reports, 2024
+📚 Nature Scientific Reports, 2025
 
 * <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer">**ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.** </a><br>
 <u>Nishchal Sapkota</u>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu,
