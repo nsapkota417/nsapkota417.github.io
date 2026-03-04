@@ -11,20 +11,26 @@ redirect_from:
 About
 ======
 
-I am a Ph.D. candidate in Computer Science and Engineering at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank"> Dr. Danny Chen</a>. I build scalable computer vision models for real-world, limited-data applications -- especially in healthcare. My research spans:
-  - **Self-supervised multimodal learning and vision foundation models**
-  - **Data-efficient 3D image and surgical video segmentation**
-  - **Data-prior guided vision architectures**
-  - **AI for healthcare**
+I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare.
 
-Alongside my research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>. At Mayo Clinic, I developed <u> generalist pathology foundation models</u>, integrated multimodal patient data for advanced diagnostics, and helped productionize predictive healthcare models through scalable MLOps pipelines. At IBM, I <u> modeled user decision paths from large-scale clickstream data </u> using N-gram, Transformer, and Mamba architectures, built real-time session-level predictors to recover thousands of lost conversions, and translated model insights into actionable marketing strategies across cross-functional teams.
+My work lies at the intersection of:
 
-I have published **15+ papers** in collaboration with hospital, biology, and anthropology labs. Additionally, I have mentored **5+ students** who went on to publish ML research and secure academic/industry placements.
+- **Vision foundation models and self-supervised multimodal learning**
+- **Data-efficient 3D medical image and surgical video segmentation**
+- **Data-prior guided vision architectures**
+- **AI for healthcare and biomedical discovery**
 
-I hold an **M.S. in CSE** from the University of Notre Dame, a **B.S. in Computer Science**, and a **B.S. in Mathematics** from the <a href="https://www.usm.edu/
-" target="_blank">**University of Southern Mississippi**</a>.
+Alongside my academic research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
 
-I am currently searching for 2026 Full-Time Roles. 😊
+At **Mayo Clinic**, I developed **generalist pathology foundation models**, integrated **multimodal patient data** for advanced diagnostics, and helped **productionize predictive healthcare models through scalable MLOps pipelines**.
+
+At **IBM**, I modeled **large-scale user decision paths from clickstream data** using **N-gram, Transformer, and Mamba architectures**, built **real-time session-level predictors** that recovered thousands of lost conversions, and translated model insights into **actionable marketing strategies across cross-functional teams**.
+
+I have published **15+ research papers** in collaboration with hospitals, biology labs, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
+
+I hold an **M.S. in Computer Science and Engineering** from the University of Notre Dame, and dual **B.S. degrees in Computer Science and Mathematics** from the <a href="https://www.usm.edu/" target="_blank">**University of Southern Mississippi**</a>.
+
+I am currently **seeking full-time Machine Learning Scientist / Machine Learning Engineer roles for 2026**.
 
 News
 ------
