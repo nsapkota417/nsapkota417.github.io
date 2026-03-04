@@ -11,11 +11,6 @@ redirect_from:
 About
 ======
 
-<p style="font-size:20px;"><b>
-Machine Learning Scientist | Computer Vision  <br>
- Self-supervised Learning | Foundation Models | Medical AI
-</b></p>
-
 I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare.
 
 My work lies at the intersection of:
