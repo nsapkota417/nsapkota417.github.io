@@ -12,7 +12,7 @@ About
 ======
 
 <p style="font-size:20px;"><b>
-Machine Learning Scientist | Computer Vision  
+Machine Learning Scientist | Computer Vision  <br>
  Self-supervised Learning | Foundation Models | Medical AI
 </b></p>
 
