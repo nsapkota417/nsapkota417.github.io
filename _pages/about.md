@@ -22,7 +22,7 @@ My work lies at the intersection of:
 
 Alongside my academic research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
 
-At **Mayo Clinic**, I developed **generalist pathology foundation models**, fixed scaling bottlenecks to build the largest vision-transformer architecture for pathology foundation models, integrated **multimodal patient data** for advanced diagnostics, and helped **productionize predictive healthcare models through scalable MLOps pipelines**.
+At **Mayo Clinic**, I developed **generalist pathology foundation models**, fixed scaling bottlenecks to build the **largest vision-transformer architecture for pathology foundation models**, integrated **multimodal patient data** for advanced diagnostics, and helped **productionize predictive healthcare models through scalable MLOps pipelines**.
 
 At **IBM**, I modeled **large-scale user decision paths from clickstream data** using **N-gram, Transformer, and Mamba architectures**, built **real-time session-level predictors** that recovered thousands of lost conversions, and translated model insights into **actionable marketing strategies across cross-functional teams**.
 
