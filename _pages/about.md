@@ -34,7 +34,9 @@ I am currently **seeking full-time Machine Learning Scientist / Machine Learning
 
 News
 ------
-### 📌 Recent Updates (2025)
+
+### 📌 Recent Updates (2025-2026)
+* 06/2026: 📚📚 Our paper on Surgical Video Segmentation with D-GEM is accepted by **MICCAI 2026**
 * 01/2026: 📚📚 1 paper accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
