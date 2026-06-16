@@ -36,12 +36,12 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
-* 06/2026: 📚📚 Our paper on Surgical Video Segmentation with D-GEM is accepted by **MICCAI 2026**
-* 01/2026: 📚📚 1 paper accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
+* 06/2026: 📚📚 1 paper (1st Author) on Surgical Video Segmentation is accepted by **MICCAI 2026**
+* 01/2026: 📚📚 1 paper (1st Author) accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚📚 1 paper accepted to **Nature Scientific Reports**
+* 02/2025: 📚📚 1 paper (1st Author) accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details markdown="1">
@@ -50,7 +50,7 @@ News
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
 * 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
-* 02/2024: 📚📚 4 papers accepted to **ISBI 2024** (3 orals)
+* 02/2024: 📚📚 4 papers (two 1st Author) accepted to **ISBI 2024** (3 orals)
 * 08/2023: 📚📚 1 paper accepted to the **Anatomical Records**
 * 05/2023: 📚📚 1 paper accepted to **MICCAI 2023**
 * 01/2023: 📚📚 1 paper accepted to **ISBI 2023** (oral)
