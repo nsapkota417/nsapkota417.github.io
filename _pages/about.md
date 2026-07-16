@@ -36,6 +36,7 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
+* 07/2026: 📚📚 1st Author paper (x1) on Pathology Foundation Model is accepted to **MedFMB @ ECCV 2026**
 * 06/2026: 📚📚 1st Author paper (x1) on Surgical Video Segmentation is accepted to **MICCAI 2026**
 * 01/2026: 📚📚 1st Author paper (x1) accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
