@@ -66,6 +66,7 @@ News
 
 Selected Publications
 ------
+
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/bm11b.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
@@ -82,6 +83,7 @@ Selected Publications
     <em> MICCAI 2026.</em><a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
   </div>
 </div>
+
 ------
 
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
