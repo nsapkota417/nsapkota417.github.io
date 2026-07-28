@@ -12,8 +12,8 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 ## Transformer-Based Segmentation Architectures:
 
-* <a href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer"><strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong></a><br>
-<strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Bofang Zheng, Xianshi Ma, Haoyan Shi, Yifeng Mariam, and Danny Z. Chen.<br>
+* <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong><br>
+<strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Bofang Zheng, Xianshi Ma, Haoyan Shi, Yohannes Mariam, and Danny Z. Chen.<br>
 📚 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026
 
 * <a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer">**When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.** </a><br>
@@ -33,7 +33,7 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier, and Danny Z
 ## Self-supervised Learning:
 
 * <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong><br>
-<strong><u>Nishchal Sapkota</u></strong>, Reyhan K. Keser, Yu Ou, Shao Shuan Huang, Danny Chen, Eric D. Hsi, Jansen Seheult, and Wenchao Han.<br>
+<strong><u>Nishchal Sapkota</u></strong>, Reyhan Kevser Keser, Yanglan Ou, Steven S. Huang, Dong Chen, Eric D. Hsi, Jansen Seheult, and Wenchao Han.<br>
 📚 Medical Foundation Models and Benchmarks (MedFMB) Workshop, European Conference on Computer Vision (ECCV), 2026
 
 * <a href="https://arxiv.org/pdf/2211.08533.pdf" target="_blank" rel="noopener noreferrer">**A point in the right direction: Vector prediction for spatially-aware self-supervised volumetric representation learning.**</a> <br>
