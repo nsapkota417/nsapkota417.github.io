@@ -21,7 +21,7 @@ My work lies at the intersection of:
 - **AI for healthcare and biomedical discovery**
 
 Alongside my academic research, I have gained industry experience at <a href="https://www.primevideo.com/" target="_blank">**Amazon**</a>, <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a>, and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
-I have published **20+ research papers** in collaboration with hospitals, biology labs, industry partners, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
+I have published **20+ research papers** in collaboration with hospitals, industry partners, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
 
 I am currently **seeking full-time Machine Learning Scientist/Engineer roles for 2026**.
 
