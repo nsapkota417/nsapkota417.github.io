@@ -56,7 +56,6 @@ News
 
 </details>
 
-
 <h2>Timeline</h2>
 
 <style>
@@ -196,14 +195,14 @@ right:auto;
 </style>
 
 <div class="timeline-labels">
-    <div class="timeline-label-left">Professional Experience</div>
-    <div class="timeline-label-right">Education</div>
+    <div class="timeline-label-left">Education</div>
+    <div class="timeline-label-right">Professional Experience</div>
 </div>
 
 <div class="timeline">
 
     <!-- PhD -->
-    <div class="timeline-item right">
+    <div class="timeline-item left">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2020 – Dec. 2026 (Expected)</div>
@@ -222,7 +221,7 @@ right:auto;
     </div>
 
     <!-- Amazon -->
-    <div class="timeline-item left">
+    <div class="timeline-item right">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2026 – Nov. 2026</div>
@@ -241,7 +240,7 @@ right:auto;
     </div>
 
     <!-- Mayo Part-time -->
-    <div class="timeline-item left">
+    <div class="timeline-item right">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2025 – Jul. 2026</div>
@@ -255,12 +254,12 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Continued research on the pathology vision foundation model to resolve scaling bottlenecks.
+            Continued research on pathology vision foundation models to resolve scaling bottlenecks.
         </p>
     </div>
 
     <!-- IBM -->
-    <div class="timeline-item left">
+    <div class="timeline-item right">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Jan. 2025 – May 2025</div>
@@ -270,16 +269,16 @@ right:auto;
         </div>
 
         <div class="timeline-org">
-            IBM 
+            IBM
         </div>
 
         <p class="timeline-desc">
-           Developed user-behavior predictive models using large-scale web clickstream data.
+            Developed user-behavior predictive models using large-scale web clickstream data.
         </p>
     </div>
 
     <!-- Mayo Internship -->
-    <div class="timeline-item left">
+    <div class="timeline-item right">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">May 2025 – Aug. 2025</div>
@@ -298,7 +297,7 @@ right:auto;
     </div>
 
     <!-- Master's -->
-    <div class="timeline-item right">
+    <div class="timeline-item left">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2024</div>
@@ -317,7 +316,7 @@ right:auto;
     </div>
 
     <!-- Started PhD -->
-    <div class="timeline-item right">
+    <div class="timeline-item left">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2020</div>
@@ -336,7 +335,7 @@ right:auto;
     </div>
 
     <!-- Bachelor's -->
-    <div class="timeline-item right">
+    <div class="timeline-item left">
         <div class="timeline-dot"></div>
 
         <div class="timeline-date">Aug. 2016 – May 2020</div>
