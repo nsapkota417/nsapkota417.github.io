@@ -68,7 +68,7 @@ Selected Publications
 ------
 
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/bm1b.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong><br>
     <em> MedFMB @ ECCV 2026.</em>
@@ -78,7 +78,7 @@ Selected Publications
 ------
 
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/dgem.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong><br>
     <em> MICCAI 2026.</em><a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
