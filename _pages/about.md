@@ -67,7 +67,7 @@ Selected Publications
   <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong><br>
-    <em> MedFMB @ ECCV 2026.</em>
+    <em> **MedFMB @ ECCV 2026**.</em>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Selected Publications
   <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong><br>
-    <em> MICCAI 2026.</em><a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
+    <em> **MICCAI 2026**.</em> <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
   </div>
 </div>
 
@@ -87,7 +87,7 @@ Selected Publications
   <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
-    <em> IEEE ISBI 2026.</em><a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+    <em> **IEEE ISBI 2026**.</em> <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
   </div>
 </div>
 
@@ -96,7 +96,7 @@ Selected Publications
   <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong><br>
-    <em> Nature Scientific Reports 2025.</em> <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
+    <em> **Nature Scientific Reports, 2025**.</em> <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ Selected Publications
   <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.</strong><br>
-    <em>IEEE ISBI 2024.</em> <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
+    <em>**IEEE ISBI 2024**.</em> <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper </a> | <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
   </div>
 </div>
 
@@ -114,7 +114,7 @@ Selected Publications
   <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
-    <em> MICCAI 2023.</em> <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper </a> | <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
+    <em> **MICCAI 2023**.</em> <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper </a> | <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
   </div>
 </div>
 
@@ -123,6 +123,6 @@ Selected Publications
   <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
-    <em>IEEE BIBM 2022</em>. <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
+    <em>**IEEE BIBM 2022**.</em> <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper </a> | <a href="" target="_blank">Code</a>
   </div>
 </div>
