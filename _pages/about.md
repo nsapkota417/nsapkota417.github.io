@@ -35,7 +35,7 @@ News
 * 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚 Paper on training with dissimilar datasets accepted to **Nature Scientific Reports**
+* 02/2025: 📚 Paper on heterogeneous-data training accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details markdown="1">
