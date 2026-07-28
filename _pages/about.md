@@ -60,6 +60,189 @@ News
 </details>
 
 
+<h2>Timeline</h2>
+
+<style>
+.timeline {
+  position: relative;
+  max-width: 900px;
+  margin: 35px auto;
+  padding: 10px 0;
+}
+
+/* Vertical line */
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 145px;
+  width: 2px;
+  background: #d9d9d9;
+}
+
+.timeline-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  column-gap: 50px;
+  margin-bottom: 40px;
+}
+
+.timeline-date {
+  text-align: right;
+  font-weight: 600;
+  color: #666;
+  padding-top: 4px;
+}
+
+/* Circular marker */
+.timeline-dot {
+  position: absolute;
+  left: 137px;
+  top: 7px;
+  width: 16px;
+  height: 16px;
+  background: #ffffff;
+  border: 3px solid #2f7f9f;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.timeline-content {
+  padding-bottom: 5px;
+}
+
+.timeline-title {
+  margin: 0 0 3px 0;
+  font-size: 1.08em;
+  font-weight: 700;
+}
+
+.timeline-organization {
+  margin-bottom: 7px;
+  font-weight: 600;
+  color: #2f7f9f;
+}
+
+.timeline-description {
+  margin: 0;
+  line-height: 1.55;
+  color: #444;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 650px) {
+  .timeline {
+    margin-left: 5px;
+  }
+
+  .timeline::before {
+    left: 8px;
+  }
+
+  .timeline-item {
+    display: block;
+    margin-left: 35px;
+    margin-bottom: 32px;
+  }
+
+  .timeline-date {
+    text-align: left;
+    margin-bottom: 5px;
+    padding-top: 0;
+  }
+
+  .timeline-dot {
+    left: 0;
+    transform: translateX(-34px);
+  }
+}
+</style>
+
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-date">Aug. 2026 – Present</div>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+      <div class="timeline-title">Applied Scientist Intern</div>
+      <div class="timeline-organization">
+        Amazon Prime Video and Amazon MGM Studios
+      </div>
+      <p class="timeline-description">
+        Working on computer vision and machine-learning systems for large-scale
+        video understanding.
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2020 – 2026</div>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+      <div class="timeline-title">Ph.D. in Computer Science and Engineering</div>
+      <div class="timeline-organization">
+        University of Notre Dame
+      </div>
+      <p class="timeline-description">
+        Conducting research in computer vision, surgical video understanding,
+        sparsely supervised learning, and self-supervised representation learning.
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">May – Aug. 2025</div>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+      <div class="timeline-title">Research Intern</div>
+      <div class="timeline-organization">
+        Mayo Clinic
+      </div>
+      <p class="timeline-description">
+        Developed computer-vision and computational-pathology methods for
+        biomedical image analysis.
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">Jan. – May 2025</div>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+      <div class="timeline-title">Research Intern</div>
+      <div class="timeline-organization">
+        IBM Research
+      </div>
+      <p class="timeline-description">
+        Worked on scalable representation learning and computer-vision models.
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">Earlier</div>
+    <div class="timeline-dot"></div>
+
+    <div class="timeline-content">
+      <div class="timeline-title">Bachelor’s Degree</div>
+      <div class="timeline-organization">
+        University Name
+      </div>
+      <p class="timeline-description">
+        Add your undergraduate degree, research experience, and other relevant
+        milestones here.
+      </p>
+    </div>
+  </div>
+
+</div>
+
 Selected Publications
 ------
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
