@@ -15,14 +15,14 @@ I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="h
 
 My work lies at the intersection of:
 
-- **Vision foundation models and self-supervised multimodal learning**
+- **Vision foundation models and large-scale self-supervised multimodal learning**
 - **Data-efficient 3D medical image and surgical video segmentation**
 - **Data-prior guided vision architectures**
 - **AI for healthcare and biomedical discovery**
 
-Alongside my academic research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
+Alongside my academic research, I have gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
 
-I have published **15+ research papers** in collaboration with hospitals, biology labs, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
+I have published **20+ research papers** in collaboration with hospitals, biology labs, industry partners and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
 
 I hold an **M.S. in Computer Science and Engineering** from the University of Notre Dame, and dual **B.S. degrees in Computer Science and Mathematics** from the <a href="https://www.usm.edu/" target="_blank">**University of Southern Mississippi**</a>.
 
@@ -32,26 +32,26 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
-* 07/2026: 📚📚 1st Author paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**
-* 06/2026: 📚📚 1st Author paper on Surgical Video Segmentation accepted to **MICCAI 2026**
-* 01/2026: 📚📚 1st Author paper on Data-efficient segmentatiion with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
-* 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
+* 07/2026: 📚📚 Paper on Pathology Vision Foundation Model accepted to **MedFMB @ ECCV 2026**
+* 06/2026: 📚📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**
+* 01/2026: 📚📚 Paper on Data-efficient segmentation with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
+* 11/2025: 📚📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚📚 1st Author paper on training ViT with multiple datasets accepted to **Nature Scientific Reports**
+* 02/2025: 📚📚 Paper on training ViT with multiple datasets accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details markdown="1">
 <summary><b>📆 Previous Years (2020–2024)</b></summary>
 
 * 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
-* 06/2024: 📚📚 1 paper accepted to **MICCAI 2024**
+* 06/2024: 📚📚 1 co-authored paper accepted to **MICCAI 2024**
 * 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
 * 02/2024: 📚📚 4 papers (two 1st Author) accepted to **ISBI 2024** (3 orals)
-* 08/2023: 📚📚 1 paper accepted to the **Anatomical Records**
-* 05/2023: 📚📚 1 paper accepted to **MICCAI 2023**
-* 01/2023: 📚📚 1 paper accepted to **ISBI 2023** (oral)
-* 10/2022: 📚📚 2 papers accepted to **BIBM 2022** 
+* 08/2023: 📚📚 Co-authored paper accepted to the **Anatomical Records**
+* 05/2023: 📚📚 Co-authored paper accepted to **MICCAI 2023**
+* 01/2023: 📚📚 Co-authored paper accepted to **ISBI 2023** (oral)
+* 10/2022: 📚📚 2 Co-authored papers accepted to **BIBM 2022** 
 * 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
 * 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
 * 05/2020: 🎓🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
