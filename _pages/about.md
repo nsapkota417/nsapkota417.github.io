@@ -349,7 +349,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Graduated with bachelor's degrees in Computer Science and Mathematics.
+            Graduated with bachelor's degrees in CS and Mathematics.
         </p>
     </div>
 
