@@ -60,6 +60,278 @@ News
 </details>
 
 
+<h2>News</h2>
+
+<style>
+.news-scroll-container {
+  position: relative;
+  max-height: 360px;
+  overflow-y: auto;
+  padding: 8px 18px 8px 8px;
+  margin: 15px 0 35px 0;
+  border-left: 2px solid #d9d9d9;
+  scrollbar-width: thin;
+  scrollbar-color: #9a9a9a transparent;
+}
+
+/* Chrome, Safari, and Edge */
+.news-scroll-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scroll-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-scroll-container::-webkit-scrollbar-thumb {
+  background: #9a9a9a;
+  border-radius: 10px;
+}
+
+.news-scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #666666;
+}
+
+.news-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  column-gap: 22px;
+  padding: 4px 0 22px 20px;
+}
+
+/* Timeline dot */
+.news-item::before {
+  content: "";
+  position: absolute;
+  left: -15px;
+  top: 9px;
+  width: 10px;
+  height: 10px;
+  background: #ffffff;
+  border: 2px solid #52adc8;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.news-date {
+  font-size: 0.88em;
+  font-weight: 600;
+  color: #777777;
+  white-space: nowrap;
+  padding-top: 1px;
+}
+
+.news-content {
+  line-height: 1.5;
+}
+
+.news-content a {
+  text-decoration: none;
+}
+
+.news-content a:hover {
+  text-decoration: underline;
+}
+
+.news-year {
+  margin: 5px 0 18px 20px;
+  font-size: 0.9em;
+  font-weight: 700;
+  color: #52adc8;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  .news-scroll-container {
+    max-height: 420px;
+    padding-right: 10px;
+  }
+
+  .news-item {
+    display: block;
+    padding-left: 18px;
+  }
+
+  .news-date {
+    margin-bottom: 4px;
+  }
+
+  .news-item::before {
+    left: -14px;
+  }
+}
+</style>
+
+<div class="news-scroll-container">
+
+  <div class="news-year">2026</div>
+
+  <div class="news-item">
+    <div class="news-date">07/2026</div>
+    <div class="news-content">
+      First-author paper on pathology foundation models accepted to
+      <strong>MedFMB @ ECCV 2026</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">06/2026</div>
+    <div class="news-content">
+      First-author paper on sparsely supervised surgical video segmentation
+      accepted to <strong>MICCAI 2026</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">01/2026</div>
+    <div class="news-content">
+      First-author paper
+      <a href="https://arxiv.org/pdf/2511.04084" target="_blank">
+        UKAST
+      </a>
+      accepted to <strong>IEEE ISBI 2026</strong>.
+    </div>
+  </div>
+
+  <div class="news-year">2025</div>
+
+  <div class="news-item">
+    <div class="news-date">11/2025</div>
+    <div class="news-content">
+      One paper accepted to <strong>IEEE BIBM 2025</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">08/2025</div>
+    <div class="news-content">
+      Resumed my Computational Pathology and AI internship at
+      <strong>Mayo Clinic</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">05/2025</div>
+    <div class="news-content">
+      Started my Data Science and AI internship at
+      <strong>IBM</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">02/2025</div>
+    <div class="news-content">
+      First-author paper accepted to
+      <strong>Nature Scientific Reports</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">01/2025</div>
+    <div class="news-content">
+      Started my Computational Pathology and AI internship at
+      <strong>Mayo Clinic</strong>.
+    </div>
+  </div>
+
+  <div class="news-year">2020–2024</div>
+
+  <div class="news-item">
+    <div class="news-date">08/2024</div>
+    <div class="news-content">
+      Defended my Ph.D. candidacy exam and received my M.S. in
+      Computer Science and Engineering.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">06/2024</div>
+    <div class="news-content">
+      One paper accepted to <strong>MICCAI 2024</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">05/2024</div>
+    <div class="news-content">
+      Received a travel grant from the organizers of
+      <strong>IEEE ISBI 2024</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">02/2024</div>
+    <div class="news-content">
+      Four papers, including two first-author papers, accepted to
+      <strong>IEEE ISBI 2024</strong>; three were selected for oral presentation.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">08/2023</div>
+    <div class="news-content">
+      One paper accepted to <strong>The Anatomical Record</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">05/2023</div>
+    <div class="news-content">
+      One paper accepted to <strong>MICCAI 2023</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">01/2023</div>
+    <div class="news-content">
+      One paper accepted to <strong>IEEE ISBI 2023</strong> as an oral presentation.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">10/2022</div>
+    <div class="news-content">
+      Two papers accepted to <strong>IEEE BIBM 2022</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">05/2021</div>
+    <div class="news-content">
+      Passed my Ph.D. qualifying examination.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">08/2020</div>
+    <div class="news-content">
+      Started my Ph.D. at the <strong>University of Notre Dame</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">05/2020</div>
+    <div class="news-content">
+      Graduated from the University of Southern Mississippi with B.S. degrees
+      in Computer Science and Mathematics.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">04/2020</div>
+    <div class="news-content">
+      Received the CSE Select Fellowship to join the
+      <strong>University of Notre Dame</strong>.
+    </div>
+  </div>
+
+</div>
+
+
+
+
 <h2>Timeline</h2>
 
 <style>
