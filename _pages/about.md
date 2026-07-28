@@ -22,10 +22,6 @@ My work lies at the intersection of:
 
 Alongside my academic research, I gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
 
-At **Mayo Clinic**, I developed **generalist pathology foundation models**, fixed scaling bottlenecks to build the **largest vision-transformer architecture for pathology foundation models**, integrated **multimodal patient data** for advanced diagnostics, and helped **productionize predictive healthcare models through scalable MLOps pipelines**.
-
-At **IBM**, I modeled **large-scale user decision paths from clickstream data** using **N-gram, Transformer, and Mamba architectures**, built **real-time session-level predictors** that recovered thousands of lost conversions, and translated model insights into **actionable marketing strategies across cross-functional teams**.
-
 I have published **15+ research papers** in collaboration with hospitals, biology labs, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
 
 I hold an **M.S. in Computer Science and Engineering** from the University of Notre Dame, and dual **B.S. degrees in Computer Science and Mathematics** from the <a href="https://www.usm.edu/" target="_blank">**University of Southern Mississippi**</a>.
@@ -36,13 +32,13 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
-* 07/2026: 📚📚 1st Author paper (x1) on Pathology Foundation Model is accepted to **MedFMB @ ECCV 2026**
-* 06/2026: 📚📚 1st Author paper (x1) on Surgical Video Segmentation is accepted to **MICCAI 2026**
-* 01/2026: 📚📚 1st Author paper (x1) accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
+* 07/2026: 📚📚 1st Author paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**
+* 06/2026: 📚📚 1st Author paper on Surgical Video Segmentation accepted to **MICCAI 2026**
+* 01/2026: 📚📚 1st Author paper on Data-efficient segmentatiion with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚📚 1 paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
 * 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚📚 1st Author paper (x1) accepted to **Nature Scientific Reports**
+* 02/2025: 📚📚 1st Author paper on training ViT with multiple datasets accepted to **Nature Scientific Reports**
 * 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details markdown="1">
