@@ -231,7 +231,7 @@ right:auto;
         </div>
 
         <div class="timeline-org">
-            Amazon Prime Video & MGM Studios
+            Amazon 
         </div>
 
         <p class="timeline-desc">
