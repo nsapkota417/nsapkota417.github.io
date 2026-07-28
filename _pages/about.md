@@ -65,7 +65,7 @@ News
 <style>
 .news-scroll-container {
   position: relative;
-  max-height: 360px;
+  max-height: 450px;
   overflow-y: auto;
   padding: 8px 18px 8px 8px;
   margin: 15px 0 35px 0;
