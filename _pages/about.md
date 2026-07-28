@@ -32,30 +32,30 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
-* 07/2026: 📚📚 Paper on Pathology Vision Foundation Model accepted to **MedFMB @ ECCV 2026**
-* 06/2026: 📚📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**
-* 01/2026: 📚📚 Paper on Data-efficient segmentation with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
-* 11/2025: 📚📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
-* 08/2025: 👨🏻‍💻👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
-* 05/2025: 👨🏻‍💻👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚📚 Paper on training ViT with multiple datasets accepted to **Nature Scientific Reports**
-* 01/2025: 👨🏻‍💻👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
+* 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**
+* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**
+* 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
+* 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
+* 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
+* 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**
+* 02/2025: 📚 Paper on training ViT with dissimilar datasets accepted to **Nature Scientific Reports**
+* 01/2025: 👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
 
 <details markdown="1">
 <summary><b>📆 Previous Years (2020–2024)</b></summary>
 
-* 08/2024: 🎓🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
-* 06/2024: 📚📚 1 co-authored paper accepted to **MICCAI 2024**
-* 05/2024: 🎉🎉 Received a travel grant from the organizers of ISBI 2024
-* 02/2024: 📚📚 4 papers (two 1st Author) accepted to **ISBI 2024** (3 orals)
-* 08/2023: 📚📚 Co-authored paper accepted to the **Anatomical Records**
-* 05/2023: 📚📚 Co-authored paper accepted to **MICCAI 2023**
-* 01/2023: 📚📚 Co-authored paper accepted to **ISBI 2023** (oral)
-* 10/2022: 📚📚 2 Co-authored papers accepted to **BIBM 2022** 
-* 05/2021: 🎉🎉 Passed my PhD Qualifiers Exam
-* 08/2020: 🧑🏻‍🏫🧑🏻‍🏫 Started my PhD at the University of Notre Dame
-* 05/2020: 🎓🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
-* 04/2020: 🎉🎉 Received CSE Select Fellowship to join the University of Notre Dame
+* 08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
+* 06/2024: 📚 1 co-authored paper accepted to **MICCAI 2024**
+* 05/2024: 🎉 Received a travel grant from the organizers of ISBI 2024
+* 02/2024: 📚 4 papers (two 1st Author) accepted to **ISBI 2024** (3 orals)
+* 08/2023: 📚 Co-authored paper accepted to the **Anatomical Records**
+* 05/2023: 📚 Co-authored paper accepted to **MICCAI 2023**
+* 01/2023: 📚 Co-authored paper accepted to **ISBI 2023** (oral)
+* 10/2022: 📚 2 Co-authored papers accepted to **BIBM 2022** 
+* 05/2021: 🎉 Passed my PhD Qualifiers Exam
+* 08/2020: 🧑🏻‍🏫 Started my PhD at the University of Notre Dame
+* 05/2020: 🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
+* 04/2020: 🎉 Received CSE Select Fellowship to join the University of Notre Dame
 
 </details>
 
