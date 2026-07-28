@@ -205,10 +205,10 @@ right:auto;
     <div class="timeline-item left">
         <div class="timeline-dot"></div>
 
-        <div class="timeline-date">Aug. 2020 – Dec. 2026 (Expected)</div>
+        <div class="timeline-date">Dec. 2026 (Expected)</div>
 
         <div class="timeline-title">
-            Ph.D. in CSE
+            Completed Ph.D.
         </div>
 
         <div class="timeline-org">
@@ -231,7 +231,7 @@ right:auto;
         </div>
 
         <div class="timeline-org">
-            Amazon Prime Video & Amazon MGM Studios
+            Amazon Prime Video & MGM Studios
         </div>
 
         <p class="timeline-desc">
