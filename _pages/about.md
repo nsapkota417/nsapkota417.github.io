@@ -255,7 +255,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Continued research on the pathology vision foundation model to resolve scaling bottlenecks while pursuing my Ph.D.
+            Continued research on the pathology vision foundation model to resolve scaling bottlenecks.
         </p>
     </div>
 
@@ -274,7 +274,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-           Developed user-behavior and session-level predictive models using large-scale web clickstream data
+           Developed user-behavior predictive models using large-scale web clickstream data.
         </p>
     </div>
 
@@ -293,7 +293,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Built large-scale healthcare AI systems using distributed training and scalable MLOps pipelines for clinical predictive modeling.
+            Built large-scale healthcare AI systems using distributed training and scalable MLOps pipelines.
         </p>
     </div>
 
@@ -301,7 +301,7 @@ right:auto;
     <div class="timeline-item right">
         <div class="timeline-dot"></div>
 
-        <div class="timeline-date">Aug. 2020 – Aug. 2024</div>
+        <div class="timeline-date">Aug. 2024</div>
 
         <div class="timeline-title">
             M.S. in CSE
