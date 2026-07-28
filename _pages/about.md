@@ -254,7 +254,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Continued research on pathology vision foundation models to resolve scaling bottlenecks.
+            Continued research on resolving scaling bottlenecks for the Pathology Vision Foundation models.
         </p>
     </div>
 
