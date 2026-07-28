@@ -21,10 +21,7 @@ My work lies at the intersection of:
 - **AI for healthcare and biomedical discovery**
 
 Alongside my academic research, I have gained industry experience at <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a> and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
-
 I have published **20+ research papers** in collaboration with hospitals, biology labs, industry partners and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
-
-I hold an **M.S. in Computer Science and Engineering** from the University of Notre Dame, and dual **B.S. degrees in Computer Science and Mathematics** from the <a href="https://www.usm.edu/" target="_blank">**University of Southern Mississippi**</a>.
 
 I am currently **seeking full-time Machine Learning Scientist / Machine Learning Engineer roles for 2026**.
 
@@ -331,187 +328,303 @@ News
 
 
 
-
+<h2>Timeline</h2>
 <h2>Timeline</h2>
 
 <style>
 .timeline {
   position: relative;
-  max-width: 900px;
+  max-width: 1000px;
   margin: 35px auto;
   padding: 10px 0;
 }
 
-/* Vertical line */
+/* Center line */
 .timeline::before {
   content: "";
   position: absolute;
+  left: 50%;
   top: 0;
   bottom: 0;
-  left: 145px;
   width: 2px;
   background: #d9d9d9;
+  transform: translateX(-50%);
 }
 
+/* Section labels */
+.timeline-labels {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1000px;
+  margin: 0 auto 20px auto;
+  font-weight: 700;
+  color: #666;
+}
+
+.timeline-label-left {
+  text-align: right;
+  padding-right: 55px;
+}
+
+.timeline-label-right {
+  text-align: left;
+  padding-left: 55px;
+}
+
+/* Timeline items */
 .timeline-item {
   position: relative;
-  display: grid;
-  grid-template-columns: 120px 1fr;
-  column-gap: 50px;
-  margin-bottom: 40px;
-}
-
-.timeline-date {
-  text-align: right;
-  font-weight: 600;
-  color: #666;
-  padding-top: 4px;
-}
-
-/* Circular marker */
-.timeline-dot {
-  position: absolute;
-  left: 137px;
-  top: 7px;
-  width: 16px;
-  height: 16px;
-  background: #ffffff;
-  border: 3px solid #2f7f9f;
-  border-radius: 50%;
+  width: 50%;
+  margin-bottom: 45px;
   box-sizing: border-box;
 }
 
-.timeline-content {
-  padding-bottom: 5px;
+.timeline-item.left {
+  left: 0;
+  padding-right: 55px;
+  text-align: right;
+}
+
+.timeline-item.right {
+  left: 50%;
+  padding-left: 55px;
+  text-align: left;
+}
+
+/* Dot */
+.timeline-dot {
+  position: absolute;
+  top: 7px;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border: 3px solid #2f7f9f;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.timeline-item.left .timeline-dot {
+  right: -8px;
+}
+
+.timeline-item.right .timeline-dot {
+  left: -8px;
+}
+
+.timeline-date {
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 6px;
 }
 
 .timeline-title {
-  margin: 0 0 3px 0;
   font-size: 1.08em;
   font-weight: 700;
+  margin-bottom: 4px;
 }
 
-.timeline-organization {
-  margin-bottom: 7px;
-  font-weight: 600;
+.timeline-org {
   color: #2f7f9f;
+  font-weight: 600;
+  margin-bottom: 8px;
 }
 
-.timeline-description {
+.timeline-desc {
   margin: 0;
   line-height: 1.55;
   color: #444;
 }
 
-/* Mobile layout */
-@media screen and (max-width: 650px) {
-  .timeline {
-    margin-left: 5px;
-  }
+/* Mobile */
+@media screen and (max-width:700px){
 
-  .timeline::before {
-    left: 8px;
-  }
+.timeline-labels{
+display:none;
+}
 
-  .timeline-item {
-    display: block;
-    margin-left: 35px;
-    margin-bottom: 32px;
-  }
+.timeline::before{
+left:8px;
+transform:none;
+}
 
-  .timeline-date {
-    text-align: left;
-    margin-bottom: 5px;
-    padding-top: 0;
-  }
+.timeline-item,
+.timeline-item.left,
+.timeline-item.right{
+width:100%;
+left:0;
+padding-left:40px;
+padding-right:10px;
+text-align:left;
+margin-bottom:35px;
+}
 
-  .timeline-dot {
-    left: 0;
-    transform: translateX(-34px);
-  }
+.timeline-item.left .timeline-dot,
+.timeline-item.right .timeline-dot{
+left:0;
+right:auto;
+}
+
 }
 </style>
 
+<div class="timeline-labels">
+    <div class="timeline-label-left">Professional Experience</div>
+    <div class="timeline-label-right">Education</div>
+</div>
+
 <div class="timeline">
 
-  <div class="timeline-item">
-    <div class="timeline-date">Aug. 2026 – Present</div>
-    <div class="timeline-dot"></div>
+    <!-- PhD -->
+    <div class="timeline-item right">
+        <div class="timeline-dot"></div>
 
-    <div class="timeline-content">
-      <div class="timeline-title">Applied Scientist Intern</div>
-      <div class="timeline-organization">
-        Amazon Prime Video and Amazon MGM Studios
-      </div>
-      <p class="timeline-description">
-        Working on computer vision and machine-learning systems for large-scale
-        video understanding.
-      </p>
+        <div class="timeline-date">Aug. 2020 – Dec. 2026 (Expected)</div>
+
+        <div class="timeline-title">
+            Ph.D. in Computer Science & Engineering
+        </div>
+
+        <div class="timeline-org">
+            University of Notre Dame
+        </div>
+
+        <p class="timeline-desc">
+            Research in computer vision, foundation models, weakly supervised learning, and surgical video understanding.
+        </p>
     </div>
-  </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">2020 – 2026</div>
-    <div class="timeline-dot"></div>
+    <!-- Amazon -->
+    <div class="timeline-item left">
+        <div class="timeline-dot"></div>
 
-    <div class="timeline-content">
-      <div class="timeline-title">Ph.D. in Computer Science and Engineering</div>
-      <div class="timeline-organization">
-        University of Notre Dame
-      </div>
-      <p class="timeline-description">
-        Conducting research in computer vision, surgical video understanding,
-        sparsely supervised learning, and self-supervised representation learning.
-      </p>
+        <div class="timeline-date">Aug. 2026 – Nov. 2026</div>
+
+        <div class="timeline-title">
+            Applied Scientist Intern
+        </div>
+
+        <div class="timeline-org">
+            Amazon Prime Video & Amazon MGM Studios
+        </div>
+
+        <p class="timeline-desc">
+            Building scalable computer vision and machine learning systems for large-scale video understanding.
+        </p>
     </div>
-  </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">May – Aug. 2025</div>
-    <div class="timeline-dot"></div>
+    <!-- Mayo Part-time -->
+    <div class="timeline-item left">
+        <div class="timeline-dot"></div>
 
-    <div class="timeline-content">
-      <div class="timeline-title">Research Intern</div>
-      <div class="timeline-organization">
-        Mayo Clinic
-      </div>
-      <p class="timeline-description">
-        Developed computer-vision and computational-pathology methods for
-        biomedical image analysis.
-      </p>
+        <div class="timeline-date">Aug. 2025 – Jul. 2026</div>
+
+        <div class="timeline-title">
+            Computational Pathology and AI Intern (Part-time)
+        </div>
+
+        <div class="timeline-org">
+            Mayo Clinic
+        </div>
+
+        <p class="timeline-desc">
+            Continued research on the pathology vision foundation model to resolve scaling bottlenecks while pursuing my Ph.D.
+        </p>
     </div>
-  </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">Jan. – May 2025</div>
-    <div class="timeline-dot"></div>
+    <!-- IBM -->
+    <div class="timeline-item left">
+        <div class="timeline-dot"></div>
 
-    <div class="timeline-content">
-      <div class="timeline-title">Research Intern</div>
-      <div class="timeline-organization">
-        IBM Research
-      </div>
-      <p class="timeline-description">
-        Worked on scalable representation learning and computer-vision models.
-      </p>
+        <div class="timeline-date">Jan. 2025 – May 2025</div>
+
+        <div class="timeline-title">
+            Senior Data Scientist Intern
+        </div>
+
+        <div class="timeline-org">
+            IBM 
+        </div>
+
+        <p class="timeline-desc">
+           Developed user-behavior and session-level predictive models using large-scale web clickstream data
+        </p>
     </div>
-  </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">Earlier</div>
-    <div class="timeline-dot"></div>
+    <!-- Mayo Internship -->
+    <div class="timeline-item left">
+        <div class="timeline-dot"></div>
 
-    <div class="timeline-content">
-      <div class="timeline-title">Bachelor’s Degree</div>
-      <div class="timeline-organization">
-        University Name
-      </div>
-      <p class="timeline-description">
-        Add your undergraduate degree, research experience, and other relevant
-        milestones here.
-      </p>
+        <div class="timeline-date">May 2025 – Aug. 2025</div>
+
+        <div class="timeline-title">
+            Computational Pathology and AI Intern
+        </div>
+
+        <div class="timeline-org">
+            Mayo Clinic
+        </div>
+
+        <p class="timeline-desc">
+            Built large-scale healthcare AI systems using distributed training and scalable MLOps pipelines for clinical predictive modeling.
+        </p>
     </div>
-  </div>
+
+    <!-- Master's -->
+    <div class="timeline-item right">
+        <div class="timeline-dot"></div>
+
+        <div class="timeline-date">Aug. 2020 – Aug. 2024</div>
+
+        <div class="timeline-title">
+            M.S. in Computer Science & Engineering
+        </div>
+
+        <div class="timeline-org">
+            University of Notre Dame
+        </div>
+
+        <p class="timeline-desc">
+            Earned my master's degree during the Ph.D. program.
+        </p>
+    </div>
+
+    <!-- Started PhD -->
+    <div class="timeline-item right">
+        <div class="timeline-dot"></div>
+
+        <div class="timeline-date">Aug. 2020</div>
+
+        <div class="timeline-title">
+            Started Ph.D.
+        </div>
+
+        <div class="timeline-org">
+            University of Notre Dame
+        </div>
+
+        <p class="timeline-desc">
+            Joined the Department of Computer Science & Engineering as a doctoral student.
+        </p>
+    </div>
+
+    <!-- Bachelor's -->
+    <div class="timeline-item right">
+        <div class="timeline-dot"></div>
+
+        <div class="timeline-date">Aug. 2016 – May 2020</div>
+
+        <div class="timeline-title">
+            Obtained B.S. in Computer Science & Mathematics
+        </div>
+
+        <div class="timeline-org">
+            University of Southern Mississippi
+        </div>
+
+        <p class="timeline-desc">
+            Graduated with bachelor's degrees in Computer Science and Mathematics.
+        </p>
+    </div>
 
 </div>
 
