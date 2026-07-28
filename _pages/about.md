@@ -65,7 +65,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong><br>
+    BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.<br>
     <strong>MedFMB @ ECCV 2026.</strong>
   </div>
 </div>
@@ -75,7 +75,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong><br>
+    Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
     <strong>MICCAI 2026.</strong>
     <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper</a> |
     <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
@@ -87,7 +87,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong><br>
+    When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.<br>
     <strong>IEEE ISBI 2026.</strong>
     <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper</a> |
     <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
@@ -99,7 +99,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong><br>
+    UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.<br>
     <strong>Nature Scientific Reports, 2025.</strong>
     <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper</a> |
     <a href="" target="_blank">Code</a>
@@ -111,7 +111,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.</strong><br>
+    A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.<br>
     <strong>IEEE ISBI 2024.</strong>
     <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper</a> |
     <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
@@ -123,7 +123,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
+    SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.<br>
     <strong>MICCAI 2023.</strong>
     <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper</a> |
     <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
@@ -135,7 +135,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
+    Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.<br>
     <strong>IEEE BIBM 2022.</strong>
     <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper</a> |
     <a href="" target="_blank">Code</a>
