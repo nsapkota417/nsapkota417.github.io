@@ -29,6 +29,7 @@ News
 ------
 
 ### 📌 Recent Updates (2025-2026)
+* 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**
 * 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**
 * 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**
 * 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
