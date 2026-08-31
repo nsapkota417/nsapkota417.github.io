@@ -31,7 +31,7 @@ News
 ### 📌 Recent Updates (2025-2026)
 * 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**
 * 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**
-* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**
+* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: **<a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">D-GEM</a>**
 * 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
@@ -372,9 +372,9 @@ Selected Publications
   <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
-    <strong>MICCAI 2026.</strong>
-    <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">Paper (pre-release)</a> |
-    <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
+    <strong>MICCAI 2026.</strong><br>
+    <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">Paper</a> |
+    <a href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer">Code</a>
   </div>
 </div>
 
