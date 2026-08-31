@@ -32,7 +32,7 @@ Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier, and Danny Z
 
 ## Self-supervised Learning:
 
-* <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong><br>
+* <a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">**BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.**</a><br>
 <strong><u>Nishchal Sapkota</u></strong>, Reyhan Kevser Keser, Yanglan Ou, Steven S. Huang, Dong Chen, Eric D. Hsi, Jansen Seheult, and Wenchao Han.<br>
 📚 Medical Foundation Models and Benchmarks (MedFMB) Workshop, European Conference on Computer Vision (ECCV), 2026
 
@@ -90,7 +90,6 @@ Emily Durham, Yann Heuze, Laurence Legeai-Mallet, and Joan T Richtsmeier. <br>
 .**</a> <br>
 <strong><u>Nishchal Sapkota</u></strong>, Rimsha Bhatta, Phillip Dabney, and Zhifu Xie. <br>
 📚 Proceedings of the Louisiana-Mississippi Section of the Mathematical Association of America, 2019
-
 
 
 
