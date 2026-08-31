@@ -208,10 +208,17 @@ right:auto;
 
 .publication-entry {
   padding: 0.85rem;
-  border: 1px solid #e5e7eb;
-  border-radius: 6px;
-  background: #fff;
+  border: 1px solid #e3dcc8;
+  border-radius: 10px;
+  background: linear-gradient(145deg, #f5f0e3, #eee7d7);
+  box-shadow: 5px 5px 12px rgba(92, 80, 54, 0.14), -3px -3px 8px rgba(255, 255, 255, 0.38);
   margin-bottom: 1.5rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.publication-entry:hover {
+  transform: translateY(-3px);
+  box-shadow: 8px 8px 16px rgba(92, 80, 54, 0.18), -3px -3px 8px rgba(255, 255, 255, 0.4);
 }
 
 .publication-entry img {
