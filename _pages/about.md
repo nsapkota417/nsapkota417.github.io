@@ -143,23 +143,31 @@ News
   font-weight: 600;
   color: #666;
   margin-bottom: 6px;
+  line-height: 1.3;
 }
 
 .timeline-title {
   font-size: 1em;
   font-weight: 700;
   margin-bottom: 4px;
+  line-height: 1.3;
 }
 
 .timeline-org {
   color: #2f7f9f;
   font-weight: 600;
   margin-bottom: 5px;
+  line-height: 1.3;
 }
 
 .timeline-desc {
   margin: 0;
   line-height: 1.45;
+  min-height: 2.9em;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
   color: #444;
 }
 
