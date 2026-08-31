@@ -374,7 +374,7 @@ right:auto;
         <div class="timeline-date">Aug. 2016 – May 2020</div>
 
         <div class="timeline-title">
-            B.S. in Computer Science & Mathematics
+            B.S. in CS & Mathematics
         </div>
 
         <div class="timeline-org">
