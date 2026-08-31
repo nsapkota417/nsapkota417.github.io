@@ -147,17 +147,21 @@ News
 }
 
 .timeline-title {
+  display: inline;
   font-size: 1em;
   font-weight: 700;
-  margin-bottom: 4px;
   line-height: 1.3;
 }
 
 .timeline-org {
+  display: inline;
   color: #2f7f9f;
   font-weight: 600;
-  margin-bottom: 5px;
   line-height: 1.3;
+}
+
+.timeline-org::before {
+  content: " · ";
 }
 
 .timeline-desc {
