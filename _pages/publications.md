@@ -12,7 +12,7 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 ## Transformer-Based Segmentation Architectures:
 
-* <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong><br>
+* <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">**Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.**</a> <em>(pre-release PDF)</em><br>
 <strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Bofang Zheng, Xianshi Ma, Haoyan Shi, Yohannes Mariam, and Danny Z. Chen.<br>
 📚 Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026
 
@@ -90,7 +90,6 @@ Emily Durham, Yann Heuze, Laurence Legeai-Mallet, and Joan T Richtsmeier. <br>
 .**</a> <br>
 <strong><u>Nishchal Sapkota</u></strong>, Rimsha Bhatta, Phillip Dabney, and Zhifu Xie. <br>
 📚 Proceedings of the Louisiana-Mississippi Section of the Mathematical Association of America, 2019
-
 
 
 

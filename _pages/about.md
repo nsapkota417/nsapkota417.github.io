@@ -373,7 +373,7 @@ Selected Publications
   <div>
     Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
     <strong>MICCAI 2026.</strong>
-    <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Paper</a> |
+    <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">Paper (pre-release)</a> |
     <a href="https://github.com/nsapkota417/D-GEM" target="_blank">Code</a>
   </div>
 </div>
