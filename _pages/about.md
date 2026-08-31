@@ -207,12 +207,46 @@ right:auto;
 }
 
 .publication-entry {
+  padding: 0.85rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  background: #fff;
   margin-bottom: 1.5rem;
 }
 
 .publication-entry img {
   width: 240px !important;
   margin-right: 16px !important;
+  border-radius: 4px;
+}
+
+.publication-entry > div {
+  flex: 1;
+  min-width: 0;
+  color: #344054;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.publication-entry strong {
+  color: #475467;
+  font-size: 0.9em;
+}
+
+.publication-entry a {
+  margin-left: 0.25rem;
+  color: #1f7a9d;
+  font-size: 0.9em;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publication-entry a:hover {
+  text-decoration: underline;
+}
+
+.publication-entry + hr {
+  display: none;
 }
 
 @media screen and (max-width:700px){
@@ -394,7 +428,7 @@ Selected Publications
   <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.<br>
-    <strong>MedFMB @ ECCV 2026.</strong><br>
+    <strong>MedFMB @ ECCV 2026.</strong>
     <a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
   </div>
 </div>
@@ -405,7 +439,7 @@ Selected Publications
   <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
-    <strong>MICCAI 2026.</strong><br>
+    <strong>MICCAI 2026.</strong>
     <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">Paper</a> |
     <a href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer">Code</a>
   </div>
