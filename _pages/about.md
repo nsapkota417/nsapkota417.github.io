@@ -25,19 +25,20 @@ I have published **20+ research papers** in collaboration with hospitals, indust
 
 I am currently **seeking full-time Machine Learning Scientist/Engineer roles for 2026**.
 
-News
-------
+Recent News
+-----------
 
-### 📌 Recent Updates (2025-2026)
-* 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**
-* 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**: **<a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">BM1b</a>**
-* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: **<a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">D-GEM</a>**
-* 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
-* 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
-* 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
-* 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚 Paper on heterogeneous-data training accepted to **Nature Scientific Reports**
-* 01/2025: 👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
+<ul class="news-list">
+  <li><time>Aug 2026</time><span>👨🏻‍💻 Started Applied Scientist Internship at <strong>Amazon</strong></span></li>
+  <li><time>Jul 2026</time><span>📚 Paper on Pathology Foundation Model accepted to <strong>MedFMB @ ECCV 2026</strong>: <strong><a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">BM1b</a></strong></span></li>
+  <li><time>Jun 2026</time><span>📚 Paper on Surgical Video Segmentation accepted to <strong>MICCAI 2026</strong>: <strong><a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">D-GEM</a></strong></span></li>
+  <li><time>Jan 2026</time><span>📚 Paper on Data-efficient ViTs with KANs accepted to <strong>ISBI 2026</strong>: <strong><a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer">UKAST</a></strong></span></li>
+  <li><time>Nov 2025</time><span>📚 Co-authored paper accepted to <strong>BIBM 2025</strong>: <strong><a href="https://arxiv.org/pdf/2511.13869" target="_blank" rel="noopener noreferrer">HCNN-ViT</a></strong></span></li>
+  <li><time>Aug 2025</time><span>👨🏻‍💻 Resumed Computational Pathology and AI internship at <strong>Mayo Clinic</strong></span></li>
+  <li><time>May 2025</time><span>👨🏻‍💻 Started Data Science and AI internship at <strong>IBM</strong></span></li>
+  <li><time>Feb 2025</time><span>📚 Paper on heterogeneous-data training accepted to <strong>Nature Scientific Reports</strong></span></li>
+  <li><time>Jan 2025</time><span>👨🏻‍💻 Started Computational Pathology and AI internship at <strong>Mayo Clinic</strong></span></li>
+</ul>
 
 <details markdown="1">
 <summary><b>📆 Previous Years (2020–2024)</b></summary>
@@ -57,9 +58,52 @@ News
 
 </details>
 
-<h2>Timeline</h2>
+<details class="experience-details">
+<summary>Experience timeline</summary>
 
 <style>
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+.news-list li {
+  display: grid;
+  grid-template-columns: 6.25rem 1fr;
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #e5e7eb;
+  line-height: 1.45;
+}
+
+.news-list time {
+  color: #667085;
+  font-size: 0.85em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.experience-details {
+  margin: 2.25rem 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fafbfc;
+}
+
+.experience-details summary {
+  color: #1f4f63;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.experience-details[open] summary {
+  margin-bottom: 1.5rem;
+}
+
 .timeline {
   position: relative;
   max-width: 1000px;
@@ -195,15 +239,48 @@ right:auto;
 }
 
 .publication-entry {
+  display: flex;
+  gap: 1rem;
   margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
+  line-height: 1.45;
 }
 
 .publication-entry img {
-  width: 240px !important;
-  margin-right: 16px !important;
+  width: 220px !important;
+  margin-right: 0 !important;
+  border-radius: 4px;
+}
+
+.publication-entry > div {
+  min-width: 0;
+}
+
+.publication-entry > div > br + strong {
+  display: inline-block;
+  margin: 0.45rem 0;
+  color: #475467;
+  font-size: 0.9em;
+}
+
+.publication-entry a {
+  text-decoration: none;
+}
+
+.publication-entry + hr {
+  display: none;
 }
 
 @media screen and (max-width:700px){
+.news-list li {
+  grid-template-columns: 1fr;
+  gap: 0.2rem;
+}
+
 .publication-entry {
   display: block !important;
 }
@@ -375,6 +452,8 @@ right:auto;
     </div>
 
 </div>
+
+</details>
 
 Selected Publications
 ------
