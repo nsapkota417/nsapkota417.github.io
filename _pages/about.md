@@ -11,10 +11,11 @@ redirect_from:
 About
 ======
 
-I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare.
+I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare. A central focus is the **post-training adaptation of vision-language models (VLMs) and diffusion/flow-based models using reinforcement learning**.
 
 My work lies at the intersection of:
 
+- **Post-training adaptation of vision-language, diffusion, and flow-based models using reinforcement learning**
 - **Vision foundation models and large-scale self-supervised multimodal learning**
 - **Data-efficient 3D medical image and surgical video segmentation**
 - **Data-prior guided vision architectures**
