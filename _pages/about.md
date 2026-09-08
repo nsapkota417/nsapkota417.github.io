@@ -17,7 +17,7 @@ My work lies at the intersection of:
 
 - **Foundation-model pretraining and scalable multimodal learning**
 - **Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning**
-- **Data-efficient and data-prior-guided computer vision**
+- **Data-efficient and data-prior-guided computer vision architectures**
 - **AI for healthcare and biomedical discovery**
 
 Alongside my academic research, I have gained industry experience at <a href="https://www.primevideo.com/" target="_blank">**Amazon**</a>, <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a>, and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
