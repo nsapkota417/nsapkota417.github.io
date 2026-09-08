@@ -132,6 +132,16 @@
   }
 }
 
+/* Differentiate publication resources without adding extra markup. */
+.publication-link[href*="arxiv.org"],
+.publication-link[href$=".pdf"] {
+  color: $info-color;
+}
+
+.publication-link[href*="github.com"] {
+  color: #4a5568;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
