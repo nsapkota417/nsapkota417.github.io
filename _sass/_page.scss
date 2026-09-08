@@ -114,6 +114,24 @@
   }
 }
 
+.publication-venue {
+  display: inline-block;
+  margin-right: 0.6em;
+  color: $info-color;
+  font-weight: bold;
+}
+
+.publication-link {
+  display: inline-block;
+  margin-right: 0.6em;
+  font-weight: bold;
+  text-decoration: none !important;
+
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

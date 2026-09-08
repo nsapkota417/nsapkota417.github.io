@@ -11,14 +11,13 @@ redirect_from:
 About
 ======
 
-I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare. A central focus is the **post-training adaptation of vision-language models (VLMs) and diffusion/flow-based models using reinforcement learning**.
+I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**, particularly in healthcare. A central focus is the **post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning**.
 
 My work lies at the intersection of:
 
-- **Post-training adaptation of vision-language, diffusion, and flow-based models using reinforcement learning**
-- **Vision foundation models and large-scale self-supervised multimodal learning**
-- **Data-efficient 3D medical image and surgical video segmentation**
-- **Data-prior guided vision architectures**
+- **Foundation-model pretraining and scalable multimodal learning**
+- **Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning**
+- **Data-efficient and data-prior-guided computer vision**
 - **AI for healthcare and biomedical discovery**
 
 Alongside my academic research, I have gained industry experience at <a href="https://www.primevideo.com/" target="_blank">**Amazon**</a>, <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a>, and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
@@ -436,8 +435,8 @@ Selected Publications
   <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.<br>
-    <strong>MedFMB @ ECCV 2026.</strong>
-    <a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <span class="publication-venue">MedFMB @ ECCV 2026.</span>
+    <a class="publication-link" href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
   </div>
 </div>
 
@@ -447,9 +446,9 @@ Selected Publications
   <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
-    <strong>MICCAI 2026.</strong>
-    <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">Paper</a> |
-    <a href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer">Code</a>
+    <span class="publication-venue">MICCAI 2026.</span>
+    <a class="publication-link" href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+    <a class="publication-link" href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
 </div>
 
@@ -459,9 +458,9 @@ Selected Publications
   <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.<br>
-    <strong>IEEE ISBI 2026.</strong>
-    <a href="https://arxiv.org/pdf/2511.04084" target="_blank">Paper</a> |
-    <a href="https://github.com/nsapkota417/UKAST" target="_blank">Code</a>
+    <span class="publication-venue">IEEE ISBI 2026.</span>
+    <a class="publication-link" href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+    <a class="publication-link" href="https://github.com/nsapkota417/UKAST" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
 </div>
 
@@ -471,9 +470,8 @@ Selected Publications
   <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.<br>
-    <strong>Nature Scientific Reports, 2025.</strong>
-    <a href="https://arxiv.org/pdf/2410.13043" target="_blank">Paper</a> |
-    <a href="" target="_blank">Code</a>
+    <span class="publication-venue">Nature Scientific Reports, 2025.</span>
+    <a class="publication-link" href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
   </div>
 </div>
 
@@ -483,9 +481,9 @@ Selected Publications
   <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.<br>
-    <strong>IEEE ISBI 2024.</strong>
-    <a href="https://arxiv.org/pdf/2402.03697" target="_blank">Paper</a> |
-    <a href="https://github.com/nsapkota417/SHMC-Net" target="_blank">Code</a>
+    <span class="publication-venue">IEEE ISBI 2024.</span>
+    <a class="publication-link" href="https://arxiv.org/pdf/2402.03697" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+    <a class="publication-link" href="https://github.com/nsapkota417/SHMC-Net" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
 </div>
 
@@ -495,9 +493,9 @@ Selected Publications
   <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.<br>
-    <strong>MICCAI 2023.</strong>
-    <a href="https://arxiv.org/pdf/2307.12429" target="_blank">Paper</a> |
-    <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
+    <span class="publication-venue">MICCAI 2023.</span>
+    <a class="publication-link" href="https://arxiv.org/pdf/2307.12429" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+    <a class="publication-link" href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
 </div>
 
@@ -507,8 +505,7 @@ Selected Publications
   <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.<br>
-    <strong>IEEE BIBM 2022.</strong>
-    <a href="https://arxiv.org/pdf/2211.08643" target="_blank">Paper</a> |
-    <a href="" target="_blank">Code</a>
+    <span class="publication-venue">IEEE BIBM 2022.</span>
+    <a class="publication-link" href="https://arxiv.org/pdf/2211.08643" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
   </div>
 </div>
