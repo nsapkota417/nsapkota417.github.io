@@ -14,21 +14,21 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 <div class="publication-item">
 <a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer"><strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong></a><br>
-<span class="publication-tag">Self-supervised Learning</span><br>
+<span class="publication-tag">Pathology Foundation Model</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Reyhan Kevser Keser, Yanglan Ou, Steven S. Huang, Dong Chen, Eric D. Hsi, Jansen Seheult, and Wenchao Han.<br>
 <span class="publication-venue">Medical Foundation Models and Benchmarks (MedFMB) Workshop, European Conference on Computer Vision (ECCV), 2026</span>
 </div>
 
 <div class="publication-item">
 <a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer"><strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong></a> <em>(pre-release PDF)</em><br>
-<span class="publication-tag">Transformer Architectures</span><br>
+<span class="publication-tag">Surgical Video Segmentation</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Bofang Zheng, Xianshi Ma, Haoyan Shi, Yohannes Mariam, and Danny Z. Chen.<br>
 <span class="publication-venue">Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026</span>
 </div>
 
 <div class="publication-item">
 <a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer"><strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong></a><br>
-<span class="publication-tag">Transformer Architectures</span><br>
+<span class="publication-tag">Task-Specific Transformer Architectures</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Haoyan Shi, Yejia Zhang, Xianshi Ma, Bofang Zheng, Fabian Vazquez, Pengfei Gu, Danny Z. Chen.<br>
 <span class="publication-venue">IEEE International Symposium on Biomedical Imaging (ISBI), 2026</span>
 </div>
@@ -37,14 +37,14 @@ Please find my full list of publications on the <a href="https://scholar.google.
 
 <div class="publication-item">
 <a href="https://arxiv.org/pdf/2511.13869" target="_blank" rel="noopener noreferrer"><strong>H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction.</strong></a><br>
-<span class="publication-tag">Computational Pathology</span><br>
+<span class="publication-tag">Task-Specific Transformer Architectures</span><br>
 Xueyang Li, Zongren Wang, Yuliang Zhang, Zixuan Pan, Yu-Jen Chen, <strong><u>Nishchal Sapkota</u></strong>, Gelei Xu, Danny Z. Chen, and Yiyu Shi.<br>
 <span class="publication-venue">IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025</span>
 </div>
 
 <div class="publication-item">
 <a href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer"><strong>UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.</strong></a><br>
-<span class="publication-tag">Transformer Architectures</span><br>
+<span class="publication-tag">Task-Specific Transformer Architectures</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Zihao Zhao, Maria Gomez, Yuhan Hsi, Jordan A. Wilson, Kazuhiko Kawasaki, Greg Holmes, Meng Wu, Ethylin Wang Jabs, Joan T. Richtsmeier, Susan M. Motch Perrine, and Danny Z. Chen.<br>
 <span class="publication-venue">Nature Scientific Reports, 2025</span>
 </div>
@@ -60,7 +60,7 @@ Yejia Zhang, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, <strong><u>Nis
 
 <div class="publication-item">
 <a href="https://arxiv.org/pdf/2402.03695.pdf" target="_blank" rel="noopener noreferrer"><strong>ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation.</strong></a><br>
-<span class="publication-tag">Transformer Architectures</span><br>
+<span class="publication-tag">Task-Specific Transformer Architectures</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Susan M. Motch Perrine, Yuhan Hsi, Sirui Li, Meng Wu, Greg Holmes, Abdul R. Abdulai, Ethylin W. Jabs, Joan T. Richtsmeier, and Danny Z. Chen.<br>
 <span class="publication-venue">IEEE International Symposium on Biomedical Imaging (ISBI), 2024</span>
 </div>
