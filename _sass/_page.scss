@@ -145,7 +145,7 @@
 .publication-item {
   position: relative;
   margin: 0 0 1.75em;
-  padding-top: 2.2em;
+  padding-top: 1.65em;
 }
 
 .publication-tag {
@@ -154,13 +154,13 @@
   left: 0;
   display: inline-block;
   padding: 0.18em 0.6em;
-  color: #9d174d;
+  color: #a64d6c;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   line-height: 1.3;
-  background: #fce7f3;
-  border: 1px solid #f9a8d4;
+  background: #fff5fa;
+  border: 1px solid #f9d5e5;
   border-radius: $border-radius;
 }
 
