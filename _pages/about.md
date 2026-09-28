@@ -309,7 +309,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Building scalable computer vision and machine learning systems for large-scale video understanding.
+            <strong>Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning</strong>
         </p>
     </div>
 
