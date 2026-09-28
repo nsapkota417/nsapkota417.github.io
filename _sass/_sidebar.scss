@@ -85,21 +85,9 @@
   }
 
   li {
-    position: relative;
-    margin-bottom: 0.9rem;
-    padding-left: 0.75rem;
+    margin-bottom: 0.65rem;
+    padding-left: 0;
     line-height: 1.35;
-
-    &::before {
-      position: absolute;
-      top: 0.42rem;
-      left: 0;
-      width: 4px;
-      height: 4px;
-      border-radius: 50%;
-      background: #879070;
-      content: "";
-    }
   }
 
   strong,
