@@ -31,7 +31,7 @@ News
 ### 📌 Recent Updates (2025-2026)
 * 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**
 * 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**: **<a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">BM1b</a>**
-* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: **<a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer">D-GEM</a>**
+* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: **<a href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer">D-GEM</a>**
 * 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
 * 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
 * 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
@@ -447,7 +447,7 @@ Selected Publications
   <div>
     Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
     <span class="publication-venue">MICCAI 2026.</span>
-    <a class="publication-link" href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
+    <a class="publication-link" href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
     <a class="publication-link" href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
 </div>

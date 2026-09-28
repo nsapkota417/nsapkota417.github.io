@@ -20,7 +20,7 @@ Please find my full list of publications on the <a href="https://scholar.google.
 </div>
 
 <div class="publication-item">
-<a href="/files/d-gem-miccai-2026-pre-release.pdf" target="_blank" rel="noopener noreferrer"><strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong></a> <em>(pre-release PDF)</em><br>
+<a href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer"><strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong></a><br>
 <span class="publication-tag">Surgical Video Segmentation</span><br>
 <strong><u>Nishchal Sapkota</u></strong>, Yejia Zhang, Bofang Zheng, Xianshi Ma, Haoyan Shi, Yohannes Mariam, and Danny Z. Chen.<br>
 <span class="publication-venue">Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026</span>
