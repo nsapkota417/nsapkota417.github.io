@@ -65,6 +65,65 @@
   }
 }
 
+.sidebar__experience {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ded6c2;
+
+  h3 {
+    margin: 0 0 0.8rem;
+    color: #4d5745;
+    font-size: $type-size-6;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    position: relative;
+    margin-bottom: 0.9rem;
+    padding-left: 0.75rem;
+    line-height: 1.35;
+
+    &::before {
+      position: absolute;
+      top: 0.42rem;
+      left: 0;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: #879070;
+      content: "";
+    }
+  }
+
+  strong,
+  span,
+  small {
+    display: block;
+  }
+
+  strong {
+    color: #344054;
+    font-size: $type-size-6;
+  }
+
+  span,
+  small {
+    color: #667085;
+    font-size: $type-size-7;
+  }
+
+  small {
+    color: #8a806d;
+  }
+}
+
 /*
    Author profile and links
    ========================================================================== */
