@@ -98,13 +98,13 @@
 
   strong {
     color: #344054;
-    font-size: $type-size-5;
+    font-size: $type-size-5 !important;
   }
 
   span,
   small {
     color: #667085;
-    font-size: $type-size-5;
+    font-size: $type-size-5 !important;
   }
 
   small {
