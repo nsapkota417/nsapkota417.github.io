@@ -326,7 +326,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            <strong>Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning</strong>
+            Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning.
         </p>
     </div>
 
