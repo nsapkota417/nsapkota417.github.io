@@ -307,7 +307,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Research in computer vision, foundation models, semi-supervised learning, and surgical video understanding.
+            Research in healthcare AI, computer vision, foundation models, semi-supervised learning, and surgical video understanding.
         </p>
     </div>
 
