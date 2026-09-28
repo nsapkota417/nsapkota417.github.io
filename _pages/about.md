@@ -60,11 +60,28 @@ News
 <h2>Timeline</h2>
 
 <style>
+/* Keep the homepage compact without changing the typography on other pages. */
+body.home .page__content {
+  font-size: 0.9em;
+}
+
+body.home .page__content h2 {
+  margin: 1.35em 0 0.4em;
+}
+
+body.home .page__content p {
+  margin-bottom: 0.9em;
+}
+
+body.home .page__content li {
+  margin-bottom: 0.3em;
+}
+
 .timeline {
   position: relative;
   max-width: 1000px;
-  margin: 25px auto;
-  padding: 5px 0;
+  margin: 16px auto;
+  padding: 0;
 }
 
 /* Center line */
@@ -103,7 +120,7 @@ News
 .timeline-item {
   position: relative;
   width: 50%;
-  margin-bottom: 28px;
+  margin-bottom: 18px;
   box-sizing: border-box;
 }
 
@@ -142,7 +159,7 @@ News
 .timeline-date {
   font-weight: 600;
   color: #666;
-  margin-bottom: 6px;
+  margin-bottom: 3px;
   line-height: 1.3;
 }
 
@@ -166,8 +183,8 @@ News
 
 .timeline-desc {
   margin: 0;
-  line-height: 1.45;
-  min-height: 2.9em;
+  line-height: 1.35;
+  min-height: 2.7em;
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -207,12 +224,12 @@ right:auto;
 }
 
 .publication-entry {
-  padding: 0.85rem;
+  padding: 0.65rem;
   border: 1px solid #e3dcc8;
   border-radius: 10px;
   background: linear-gradient(145deg, #f5f0e3, #eee7d7);
   box-shadow: 5px 5px 12px rgba(92, 80, 54, 0.14), -3px -3px 8px rgba(255, 255, 255, 0.38);
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.9rem;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 
@@ -222,8 +239,8 @@ right:auto;
 }
 
 .publication-entry img {
-  width: 240px !important;
-  margin-right: 16px !important;
+  width: 190px !important;
+  margin-right: 12px !important;
   border-radius: 4px;
 }
 
