@@ -46,7 +46,7 @@ News
   <li>08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE.</li>
   <li>02/2024: 📚 Four papers, including two first-author papers, accepted to <strong>ISBI 2024</strong>.</li>
   <li>05/2023: 📚 Co-authored paper accepted to <strong>MICCAI 2023</strong>.</li>
-  <li>01/2023: 📚 Co-authored paper accepted to <strong>ISBI 2023</strong> (oral).</li>
+  <li>01/2023: 📚 Co-authored paper accepted to <strong>ISBI 2023</strong>.</li>
   <li>10/2022: 📚 Two co-authored papers accepted to <strong>BIBM 2022</strong>.</li>
   <li>05/2021: 🎉 Passed Ph.D. Qualifiers Exam.</li>
   <li>08/2020: 🧑🏻‍🏫 Started Ph.D. at the University of Notre Dame.</li>
