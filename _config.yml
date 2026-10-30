@@ -118,10 +118,13 @@ author:
   experience:
     - organization: "Amazon"
       role: "Applied Scientist Intern"
+      date: "Fall 2026"
     - organization: "Mayo Clinic"
       role: "Computational Pathology & AI Intern"
+      date: "2025–2026"
     - organization: "IBM"
       role: "Senior Data Scientist Intern"
+      date: "Summer 2025"
 
 
 # Reading Files

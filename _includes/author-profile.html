@@ -24,19 +24,11 @@
       <h3>Experience</h3>
       <ul>
         {% for role in author.experience %}
-          <li><strong>{{ role.organization }}</strong><span>{{ role.role }}</span></li>
+          <li><strong>{{ role.organization }}</strong><span>{{ role.role }}</span>{% if role.date %}<small>{{ role.date }}</small>{% endif %}</li>
         {% endfor %}
       </ul>
     </section>
   {% endif %}
-
-  <nav class="sidebar__navigation" aria-label="Profile navigation">
-    <ul>
-      <li><a href="{{ base_path }}/">Home</a></li>
-      <li><a href="{{ base_path }}/publications/">Publications</a></li>
-      <li><a href="{{ base_path }}/cv/">CV</a></li>
-    </ul>
-  </nav>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>

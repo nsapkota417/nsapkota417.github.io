@@ -571,29 +571,6 @@ body.home .page__content h3 {
   text-align: right;
 }
 
-.sidebar__navigation {
-  margin-top: 1rem;
-  padding-top: 0.9rem;
-  border-top: 1px solid #ded9cb;
-}
-
-.sidebar__navigation ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.sidebar__navigation a {
-  display: block;
-  padding: 0.25rem 0;
-  color: #344054;
-  text-decoration: none;
-}
-
-.sidebar__navigation a:hover {
-  color: #a58c4a;
-}
-
 /* Keep the profile sidebar ordered consistently across the site. */
 @include breakpoint($large) {
   .sidebar [itemscope] {
@@ -618,9 +595,6 @@ body.home .page__content h3 {
     order: 4;
   }
 
-  .sidebar .sidebar__navigation {
-    order: 5;
-  }
 }
 
 @media screen and (max-width: $medium) {
