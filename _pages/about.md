@@ -18,7 +18,7 @@ Research Interests
 
 <ul class="home-research-list">
   <li><span>Foundation Models</span> Pretraining and scalable multimodal learning.</li>
-  <li><span>Post-training Adaptation</span> Diffusion/flow-based generative models and reinforcement learning.</li>
+  <li><span>Post-training Adaptation</span> Reinforcement learning for diffusion/flow-based generative models.</li>
   <li><span>Computer Vision Architectures</span> Data-efficient and data-prior-guided methods.</li>
   <li><span>Healthcare AI</span> Medical imaging, computational pathology, and biomedical discovery.</li>
 </ul>

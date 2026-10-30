@@ -546,6 +546,10 @@ body.home .page__content h3 {
   border-top: 1px solid #ded9cb;
 }
 
+#selected-publications + .home-publication {
+  border-top: 0;
+}
+
 .home-publication strong {
   display: block;
   color: #263342;
