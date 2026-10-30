@@ -30,15 +30,13 @@
     </section>
   {% endif %}
 
-  {% if page.url == "/" %}
-    <nav class="sidebar__navigation" aria-label="Profile navigation">
-      <ul>
-        <li><a href="{{ base_path }}/">Home</a></li>
-        <li><a href="{{ base_path }}/publications/">Publications</a></li>
-        <li><a href="{{ base_path }}/cv/">CV</a></li>
-      </ul>
-    </nav>
-  {% endif %}
+  <nav class="sidebar__navigation" aria-label="Profile navigation">
+    <ul>
+      <li><a href="{{ base_path }}/">Home</a></li>
+      <li><a href="{{ base_path }}/publications/">Publications</a></li>
+      <li><a href="{{ base_path }}/cv/">CV</a></li>
+    </ul>
+  </nav>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>

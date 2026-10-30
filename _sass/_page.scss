@@ -462,10 +462,6 @@
 }
 
 /* Minimal home page */
-body.home .masthead {
-  display: none;
-}
-
 body.home .page__content {
   font-size: 1em;
 }
@@ -596,6 +592,35 @@ body.home .page__content h3 {
 
 .sidebar__navigation a:hover {
   color: #a58c4a;
+}
+
+/* Keep the profile sidebar ordered consistently across the site. */
+@include breakpoint($large) {
+  .sidebar [itemscope] {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sidebar .author__avatar {
+    order: 1;
+  }
+
+  .sidebar .author__content {
+    order: 2;
+  }
+
+  .sidebar .author__urls-wrapper {
+    order: 3;
+    margin-top: 0.75rem;
+  }
+
+  .sidebar .sidebar__experience {
+    order: 4;
+  }
+
+  .sidebar .sidebar__navigation {
+    order: 5;
+  }
 }
 
 @media screen and (max-width: $medium) {

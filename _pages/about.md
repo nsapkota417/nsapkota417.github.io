@@ -11,15 +11,7 @@ redirect_from:
 About
 =====
 
-I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank" rel="noopener noreferrer">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">**Dr. Danny Chen**</a>. I build scalable machine-learning and computer-vision systems for real-world, data-limited environments.
-
-Education
----------
-
-<div class="home-education">
-  <strong>Ph.D. Candidate, Computer Science and Engineering</strong> — University of Notre Dame <span>Expected December 2026</span><br>
-  <strong>M.S. in Computer Science and Engineering</strong> — University of Notre Dame <span>2024</span>
-</div>
+I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank" rel="noopener noreferrer">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">**Dr. Danny Chen**</a>. I build scalable machine-learning and computer-vision systems for real-world, data-limited environments. I received my **M.S. in Computer Science and Engineering** from Notre Dame in 2024 and expect to complete my Ph.D. in December 2026.
 
 Research Interests
 ------------------
