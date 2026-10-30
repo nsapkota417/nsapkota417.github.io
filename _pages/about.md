@@ -16,7 +16,7 @@ I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="h
 My work lies at the intersection of:
 
 - **Foundation-model pretraining and scalable multimodal learning**
-- **Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning**
+- **Post-training adaptation of diffusion/flow-based generative models using reinforcement learning**
 - **Data-efficient and data-prior-guided computer vision architectures**
 - **AI for healthcare and biomedical discovery**
 
@@ -326,7 +326,7 @@ right:auto;
         </div>
 
         <p class="timeline-desc">
-            Post-training adaptation of diffusion/flow-based vision-language models using reinforcement learning.
+            Post-training adaptation of diffusion/flow-based generative models using reinforcement learning.
         </p>
     </div>
 
