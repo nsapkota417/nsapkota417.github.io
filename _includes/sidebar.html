@@ -3,36 +3,6 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-    <section class="sidebar__experience" aria-labelledby="sidebar-experience-title">
-      <h3 id="sidebar-experience-title">Experience</h3>
-      <ul>
-        <li>
-          <strong>Amazon</strong>
-          <span>Applied Scientist Intern</span>
-          <small>Fall, 2026</small>
-        </li>
-        <li>
-          <strong>Mayo Clinic</strong>
-          <span>Ph.D. Intern</span>
-          <small>2025-2026</small>
-        </li>
-        <li>
-          <strong>IBM</strong>
-          <span>Senior Data Scientist Intern</span>
-          <small>Summer, 2025</small>
-        </li>
-        <li>
-          <strong>University of Notre Dame</strong>
-          <span>Ph.D. Candidate, CSE</span>
-          <small>Fall 2024-Present</small>
-        </li>
-        <li>
-          <strong>University of Notre Dame</strong>
-          <span>Started Ph.D., CSE</span>
-          <small>Aug 2020</small>
-        </li>
-      </ul>
-    </section>
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

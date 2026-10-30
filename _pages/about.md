@@ -44,18 +44,20 @@ News
 <details class="home-news-archive">
 <summary>Previous news (2020–2025)</summary>
 
-* 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: <a href="https://arxiv.org/pdf/2511.13869" target="_blank" rel="noopener noreferrer">HCNN-ViT</a>.
-* 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**.
-* 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**.
-* 02/2025: 📚 Paper on heterogeneous-data training accepted to **Nature Scientific Reports**.
-* 08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE.
-* 02/2024: 📚 Four papers, including two first-author papers, accepted to **ISBI 2024**.
-* 05/2023: 📚 Co-authored paper accepted to **MICCAI 2023**.
-* 01/2023: 📚 Co-authored paper accepted to **ISBI 2023** (oral).
-* 10/2022: 📚 Two co-authored papers accepted to **BIBM 2022**.
-* 05/2021: 🎉 Passed Ph.D. Qualifiers Exam.
-* 08/2020: 🧑🏻‍🏫 Started Ph.D. at the University of Notre Dame.
-* 05/2020: 🎓 Graduated from USM with B.S. degrees in Computer Science and Mathematics.
+<ul>
+  <li>11/2025: 📚 Co-authored paper accepted to <strong>BIBM 2025</strong>: <a href="https://arxiv.org/pdf/2511.13869" target="_blank" rel="noopener noreferrer">HCNN-ViT</a>.</li>
+  <li>08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at <strong>Mayo Clinic</strong>.</li>
+  <li>05/2025: 👨🏻‍💻 Started Data Science and AI internship at <strong>IBM</strong>.</li>
+  <li>02/2025: 📚 Paper on heterogeneous-data training accepted to <strong>Nature Scientific Reports</strong>.</li>
+  <li>08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE.</li>
+  <li>02/2024: 📚 Four papers, including two first-author papers, accepted to <strong>ISBI 2024</strong>.</li>
+  <li>05/2023: 📚 Co-authored paper accepted to <strong>MICCAI 2023</strong>.</li>
+  <li>01/2023: 📚 Co-authored paper accepted to <strong>ISBI 2023</strong> (oral).</li>
+  <li>10/2022: 📚 Two co-authored papers accepted to <strong>BIBM 2022</strong>.</li>
+  <li>05/2021: 🎉 Passed Ph.D. Qualifiers Exam.</li>
+  <li>08/2020: 🧑🏻‍🏫 Started Ph.D. at the University of Notre Dame.</li>
+  <li>05/2020: 🎓 Graduated from USM with B.S. degrees in Computer Science and Mathematics.</li>
+</ul>
 
 </details>
 
