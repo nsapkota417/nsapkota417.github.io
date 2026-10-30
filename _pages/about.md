@@ -3,526 +3,95 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 About
-======
+=====
 
-I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank">**Dr. Danny Chen**</a>. My research focuses on building **scalable machine learning and computer vision systems for real-world, data-limited environments**.
+I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank" rel="noopener noreferrer">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">**Dr. Danny Chen**</a>. I build scalable machine-learning and computer-vision systems for real-world, data-limited environments.
 
-My work lies at the intersection of:
+Education
+---------
 
-- **Foundation-model pretraining and scalable multimodal learning**
-- **Post-training adaptation of diffusion/flow-based generative models using reinforcement learning**
-- **Data-efficient and data-prior-guided computer vision architectures**
-- **AI for healthcare and biomedical discovery**
+<div class="home-education">
+  <strong>Ph.D. Candidate, Computer Science and Engineering</strong> — University of Notre Dame <span>Expected December 2026</span><br>
+  <strong>M.S. in Computer Science and Engineering</strong> — University of Notre Dame <span>2024</span>
+</div>
 
-Alongside my academic research, I have gained industry experience at <a href="https://www.primevideo.com/" target="_blank">**Amazon**</a>, <a href="https://www.mayoclinic.org/" target="_blank">**Mayo Clinic**</a>, and <a href="https://www.ibm.com/us-en" target="_blank">**IBM**</a>.
-I have published **20+ research papers** in collaboration with hospitals, industry partners, and interdisciplinary research groups. In addition, I have mentored **5+ students** who later published machine learning research and secured academic and industry placements.
+Research Interests
+------------------
 
-I am currently **seeking full-time Machine Learning Scientist/Engineer roles for 2026**.
+<ul class="home-research-list">
+  <li><span>Foundation Models</span> Pretraining and scalable multimodal learning.</li>
+  <li><span>Post-training Adaptation</span> Diffusion/flow-based generative models and reinforcement learning.</li>
+  <li><span>Computer Vision Architectures</span> Data-efficient and data-prior-guided methods.</li>
+  <li><span>Healthcare AI</span> Medical imaging, computational pathology, and biomedical discovery.</li>
+</ul>
 
 News
-------
+----
 
-### 📌 Recent Updates (2025-2026)
-* 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**
-* 07/2026: 📚 Paper on Pathology Foundation Model accepted to **MedFMB @ ECCV 2026**: **<a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">BM1b</a>**
-* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: **<a href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer">D-GEM</a>**
-* 01/2026: 📚 Paper on Data-efficient ViTs with KANs accepted to **ISBI 2026**: **<a href="https://arxiv.org/pdf/2511.04084" target="_blank">UKAST</a>**
-* 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: **<a href="https://arxiv.org/pdf/2511.13869" target="_blank">HCNN-ViT</a>** 
-* 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**
-* 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**
-* 02/2025: 📚 Paper on heterogeneous-data training accepted to **Nature Scientific Reports**
-* 01/2025: 👨🏻‍💻 Started Computational Pathology and AI internship at **Mayo Clinic**
+### 2026
 
-<details markdown="1">
-<summary><b>📆 Previous Years (2020–2024)</b></summary>
+* 08/2026: 👨🏻‍💻 Started Applied Scientist Internship at **Amazon**.
+* 07/2026: 📚 Paper on Pathology Foundation Models accepted to **MedFMB @ ECCV 2026**: <a href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer">BM1b</a>.
+* 06/2026: 📚 Paper on Surgical Video Segmentation accepted to **MICCAI 2026**: <a href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer">D-GEM</a>.
+* 01/2026: 📚 Paper on data-efficient ViTs with KANs accepted to **ISBI 2026**: <a href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer">UKAST</a>.
 
-* 08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE
-* 06/2024: 📚 1 co-authored paper accepted to **MICCAI 2024**
-* 05/2024: 🎉 Received a travel grant from the organizers of ISBI 2024
-* 02/2024: 📚 4 papers (two 1st Author) accepted to **ISBI 2024** (3 orals)
-* 08/2023: 📚 Co-authored paper accepted to the **Anatomical Records**
-* 05/2023: 📚 Co-authored paper accepted to **MICCAI 2023**
-* 01/2023: 📚 Co-authored paper accepted to **ISBI 2023** (oral)
-* 10/2022: 📚 2 Co-authored papers accepted to **BIBM 2022** 
-* 05/2021: 🎉 Passed my PhD Qualifiers Exam
-* 08/2020: 🧑🏻‍🏫 Started my PhD at the University of Notre Dame
-* 05/2020: 🎓 Graduated from USM with a B.S. in CS and a B.S. in Mathematics
-* 04/2020: 🎉 Received CSE Select Fellowship to join the University of Notre Dame
+<details class="home-news-archive">
+<summary>Previous news (2020–2025)</summary>
+
+* 11/2025: 📚 Co-authored paper accepted to **BIBM 2025**: <a href="https://arxiv.org/pdf/2511.13869" target="_blank" rel="noopener noreferrer">HCNN-ViT</a>.
+* 08/2025: 👨🏻‍💻 Resumed Computational Pathology and AI internship at **Mayo Clinic**.
+* 05/2025: 👨🏻‍💻 Started Data Science and AI internship at **IBM**.
+* 02/2025: 📚 Paper on heterogeneous-data training accepted to **Nature Scientific Reports**.
+* 08/2024: 🎓 Defended my Ph.D. Candidacy Exam and received my M.S. in CSE.
+* 02/2024: 📚 Four papers, including two first-author papers, accepted to **ISBI 2024**.
+* 05/2023: 📚 Co-authored paper accepted to **MICCAI 2023**.
+* 01/2023: 📚 Co-authored paper accepted to **ISBI 2023** (oral).
+* 10/2022: 📚 Two co-authored papers accepted to **BIBM 2022**.
+* 05/2021: 🎉 Passed Ph.D. Qualifiers Exam.
+* 08/2020: 🧑🏻‍🏫 Started Ph.D. at the University of Notre Dame.
+* 05/2020: 🎓 Graduated from USM with B.S. degrees in Computer Science and Mathematics.
 
 </details>
 
-<h2>Timeline</h2>
-
-<style>
-/* Keep the homepage compact without changing the typography on other pages. */
-body.home .page__content {
-  font-size: 0.9em;
-}
-
-body.home .page__content h2 {
-  margin: 1.35em 0 0.4em;
-}
-
-body.home .page__content p {
-  margin-bottom: 0.9em;
-}
-
-body.home .page__content li {
-  margin-bottom: 0.3em;
-}
-
-.timeline {
-  position: relative;
-  max-width: 1000px;
-  margin: 16px auto;
-  padding: 0;
-}
-
-/* Center line */
-.timeline::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background: #d9d9d9;
-  transform: translateX(-50%);
-}
-
-/* Section labels */
-.timeline-labels {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  max-width: 1000px;
-  margin: 0 auto 12px auto;
-  font-weight: 700;
-  color: #666;
-}
-
-.timeline-label-left {
-  text-align: right;
-  padding-right: 40px;
-}
-
-.timeline-label-right {
-  text-align: left;
-  padding-left: 40px;
-}
-
-/* Timeline items */
-.timeline-item {
-  position: relative;
-  width: 50%;
-  margin-bottom: 18px;
-  box-sizing: border-box;
-}
-
-.timeline-item.left {
-  left: 0;
-  padding-right: 40px;
-  text-align: right;
-}
-
-.timeline-item.right {
-  left: 50%;
-  padding-left: 40px;
-  text-align: left;
-}
-
-/* Dot */
-.timeline-dot {
-  position: absolute;
-  top: 7px;
-  width: 16px;
-  height: 16px;
-  background: #fff;
-  border: 3px solid #2f7f9f;
-  border-radius: 50%;
-  z-index: 2;
-}
-
-.timeline-item.left .timeline-dot {
-  right: -8px;
-}
-
-.timeline-item.right .timeline-dot {
-  left: -8px;
-}
-
-.timeline-date {
-  font-weight: 600;
-  color: #666;
-  margin-bottom: 3px;
-  line-height: 1.3;
-}
-
-.timeline-title {
-  display: inline;
-  font-size: 1em;
-  font-weight: 700;
-  line-height: 1.3;
-}
-
-.timeline-org {
-  display: inline;
-  color: #2f7f9f;
-  font-weight: 600;
-  line-height: 1.3;
-}
-
-.timeline-org::before {
-  content: " · ";
-}
-
-.timeline-desc {
-  margin: 0;
-  line-height: 1.35;
-  min-height: 2.7em;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  color: #444;
-}
-
-/* Mobile */
-@media screen and (max-width:700px){
-
-.timeline-labels{
-display:none;
-}
-
-.timeline::before{
-left:8px;
-transform:none;
-}
-
-.timeline-item,
-.timeline-item.left,
-.timeline-item.right{
-width:100%;
-left:0;
-padding-left:40px;
-padding-right:10px;
-text-align:left;
-margin-bottom:25px;
-}
-
-.timeline-item.left .timeline-dot,
-.timeline-item.right .timeline-dot{
-left:0;
-right:auto;
-}
-
-}
-
-.publication-entry {
-  padding: 0.65rem;
-  border: 1px solid #e3dcc8;
-  border-radius: 10px;
-  background: linear-gradient(145deg, #f5f0e3, #eee7d7);
-  box-shadow: 5px 5px 12px rgba(92, 80, 54, 0.14), -3px -3px 8px rgba(255, 255, 255, 0.38);
-  margin-bottom: 0.9rem;
-  transition: transform 0.18s ease, box-shadow 0.18s ease;
-}
-
-.publication-entry:hover {
-  transform: translateY(-3px);
-  box-shadow: 8px 8px 16px rgba(92, 80, 54, 0.18), -3px -3px 8px rgba(255, 255, 255, 0.4);
-}
-
-.publication-entry img {
-  width: 190px !important;
-  margin-right: 12px !important;
-  border-radius: 4px;
-}
-
-.publication-entry > div {
-  flex: 1;
-  min-width: 0;
-  color: #344054;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-.publication-entry strong {
-  color: #475467;
-  font-size: 0.9em;
-}
-
-.publication-entry a {
-  margin-left: 0.25rem;
-  color: #1f7a9d;
-  font-size: 0.9em;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.publication-entry a:hover {
-  text-decoration: underline;
-}
-
-.publication-entry + hr {
-  display: none;
-}
-
-@media screen and (max-width:700px){
-.publication-entry {
-  display: block !important;
-}
-
-.publication-entry img {
-  width: 180px !important;
-  margin: 0 0 12px 0 !important;
-}
-}
-</style>
-
-<div class="timeline-labels">
-    <div class="timeline-label-left">Education</div>
-    <div class="timeline-label-right">Professional Experience</div>
-</div>
-
-<div class="timeline">
-
-    <!-- PhD -->
-    <div class="timeline-item left">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Dec. 2026 (Expected)</div>
-
-        <div class="timeline-title">
-            Completed Ph.D.
-        </div>
-
-        <div class="timeline-org">
-            University of Notre Dame
-        </div>
-
-        <p class="timeline-desc">
-            Research in healthcare AI, computer vision, foundation models, semi-supervised learning, and surgical video understanding.
-        </p>
-    </div>
-
-    <!-- Amazon -->
-    <div class="timeline-item right">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Aug. 2026 – Nov. 2026</div>
-
-        <div class="timeline-title">
-            Applied Scientist Intern
-        </div>
-
-        <div class="timeline-org">
-            Amazon 
-        </div>
-
-        <p class="timeline-desc">
-            Post-training adaptation of diffusion/flow-based generative models using reinforcement learning.
-        </p>
-    </div>
-
-    <!-- Mayo Part-time -->
-    <div class="timeline-item right">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Aug. 2025 – Jul. 2026</div>
-
-        <div class="timeline-title">
-            Ph.D. Intern (Part-time)
-        </div>
-
-        <div class="timeline-org">
-            Mayo Clinic
-        </div>
-
-        <p class="timeline-desc">
-            Continued research on resolving scaling bottlenecks for the Pathology Vision Foundation models.
-        </p>
-    </div>
-
-    <!-- IBM -->
-    <div class="timeline-item right">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Jan. 2025 – May 2025</div>
-
-        <div class="timeline-title">
-            Senior Data Scientist Intern
-        </div>
-
-        <div class="timeline-org">
-            IBM
-        </div>
-
-        <p class="timeline-desc">
-            Developed user-behavior predictive models using large-scale web clickstream data.
-        </p>
-    </div>
-
-    <!-- Mayo Internship -->
-    <div class="timeline-item right">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">May 2025 – Aug. 2025</div>
-
-        <div class="timeline-title">
-            Ph.D. Intern
-        </div>
-
-        <div class="timeline-org">
-            Mayo Clinic
-        </div>
-
-        <p class="timeline-desc">
-            Built large-scale healthcare AI systems using distributed training and scalable MLOps pipelines.
-        </p>
-    </div>
-
-    <!-- Master's -->
-    <div class="timeline-item left">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Aug. 2024</div>
-
-        <div class="timeline-title">
-            M.S. in CSE
-        </div>
-
-        <div class="timeline-org">
-            University of Notre Dame
-        </div>
-
-        <p class="timeline-desc">
-            Earned my master's degree during the Ph.D. program.
-        </p>
-    </div>
-
-    <!-- Started PhD -->
-    <div class="timeline-item left">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Aug. 2020</div>
-
-        <div class="timeline-title">
-            Started Ph.D.
-        </div>
-
-        <div class="timeline-org">
-            University of Notre Dame
-        </div>
-
-        <p class="timeline-desc">
-            Joined the CSE Department as a doctoral student.
-        </p>
-    </div>
-
-    <!-- Bachelor's -->
-    <div class="timeline-item left">
-        <div class="timeline-dot"></div>
-
-        <div class="timeline-date">Aug. 2016 – May 2020</div>
-
-        <div class="timeline-title">
-            B.S. in CS & Mathematics
-        </div>
-
-        <div class="timeline-org">
-            University of Southern Mississippi
-        </div>
-
-        <p class="timeline-desc">
-            Graduated with bachelor's degrees in CS and Mathematics.
-        </p>
-    </div>
-
-</div>
-
 Selected Publications
-------
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/bm1b.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+---------------------
+
+<article class="home-publication">
   <div>
-    BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.<br>
-    <span class="publication-venue">MedFMB @ ECCV 2026.</span>
+    <strong>BM1b: Data-Efficient Scaling of Bone Marrow Foundation Models through Domain-Specific Self-Supervised Learning and Dense Morphology-Preserving Representation Learning.</strong>
+    <span class="publication-venue">MedFMB @ ECCV 2026</span>
+  </div>
+  <div class="home-publication__actions">
     <a class="publication-link" href="https://nsapkota417.github.io/final_bm1b.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
   </div>
-</div>
+</article>
 
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/dgem.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+<article class="home-publication">
   <div>
-    Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.<br>
-    <span class="publication-venue">MICCAI 2026.</span>
+    <strong>Sparsely Supervised Surgical Video Segmentation with Reliable Asymmetric Dual Memory.</strong>
+    <span class="publication-venue">MICCAI 2026</span>
+  </div>
+  <div class="home-publication__actions">
     <a class="publication-link" href="https://link-springer-com.proxy.library.nd.edu/chapter/10.1007/978-3-032-38233-7_48" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
     <a class="publication-link" href="https://github.com/nsapkota417/D-GEM" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
-</div>
+</article>
 
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/ukast.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+<article class="home-publication">
   <div>
-    When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.<br>
-    <span class="publication-venue">IEEE ISBI 2026.</span>
+    <strong>When Swin Transformer Meets KANs: An Improved Transformer Architecture for Medical Image Segmentation.</strong>
+    <span class="publication-venue">IEEE ISBI 2026</span>
+  </div>
+  <div class="home-publication__actions">
     <a class="publication-link" href="https://arxiv.org/pdf/2511.04084" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
     <a class="publication-link" href="https://github.com/nsapkota417/UKAST" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
   </div>
-</div>
+</article>
 
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/unicon.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    UniCoN: Universal Conditional Networks for Multi-Age Embryonic Cartilage Segmentation with Sparsely Annotated Data.<br>
-    <span class="publication-venue">Nature Scientific Reports, 2025.</span>
-    <a class="publication-link" href="https://arxiv.org/pdf/2410.13043" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
-  </div>
-</div>
-
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/shmcnet.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    A Mask-guided Feature Fusion Network for Sperm Head Morphology Classification.<br>
-    <span class="publication-venue">IEEE ISBI 2024.</span>
-    <a class="publication-link" href="https://arxiv.org/pdf/2402.03697" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
-    <a class="publication-link" href="https://github.com/nsapkota417/SHMC-Net" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
-  </div>
-</div>
-
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/swipe.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.<br>
-    <span class="publication-venue">MICCAI 2023.</span>
-    <a class="publication-link" href="https://arxiv.org/pdf/2307.12429" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
-    <a class="publication-link" href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
-  </div>
-</div>
-
-------
-
-<div style="display:flex;align-items:flex-start;" class="publication-entry">
-  <img src="/images/spade.jpg" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
-  <div>
-    Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.<br>
-    <span class="publication-venue">IEEE BIBM 2022.</span>
-    <a class="publication-link" href="https://arxiv.org/pdf/2211.08643" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i> Paper</a>
-  </div>
-</div>
+<p class="home-publications-link"><a href="/publications/">View all publications →</a></p>

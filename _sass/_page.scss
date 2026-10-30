@@ -460,3 +460,154 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Minimal home page */
+body.home .masthead {
+  display: none;
+}
+
+body.home .page__content {
+  font-size: 1em;
+}
+
+body.home .page__content h2 {
+  margin: 2.1rem 0 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #d8d2c1;
+  font-family: $serif;
+  font-size: $type-size-3;
+}
+
+body.home .page__content h3 {
+  margin: 1.2rem 0 0.5rem;
+  font-size: $type-size-5;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.home-education {
+  margin: 0.5rem 0 1rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid #a58c4a;
+  background: #fbf9f2;
+  color: #3f4854;
+  line-height: 1.7;
+}
+
+.home-education span {
+  color: #766b50;
+  white-space: nowrap;
+}
+
+.home-research-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-research-list li {
+  margin: 0.65rem 0;
+  line-height: 1.55;
+}
+
+.home-research-list span {
+  display: inline-block;
+  margin-right: 0.45rem;
+  padding: 0.15rem 0.45rem;
+  border: 1px solid #d6c58e;
+  border-radius: $border-radius;
+  background: #f2ead3;
+  color: #65572a;
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.home-news-archive {
+  margin-top: 1rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid #d8d2c1;
+}
+
+.home-news-archive summary {
+  cursor: pointer;
+  color: #30445f;
+  font-weight: bold;
+}
+
+.home-news-archive[open] summary {
+  margin-bottom: 0.65rem;
+}
+
+.home-publication {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ded9cb;
+}
+
+.home-publication strong {
+  display: block;
+  color: #263342;
+  font-family: $serif;
+  line-height: 1.35;
+}
+
+.home-publication .publication-venue {
+  margin-top: 0.3rem;
+}
+
+.home-publication__actions {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.home-publication__actions .publication-link {
+  margin-right: 0.35rem;
+}
+
+.home-publications-link {
+  margin-top: 0.3rem;
+  text-align: right;
+}
+
+.sidebar__navigation {
+  margin-top: 1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #ded9cb;
+}
+
+.sidebar__navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar__navigation a {
+  display: block;
+  padding: 0.25rem 0;
+  color: #344054;
+  text-decoration: none;
+}
+
+.sidebar__navigation a:hover {
+  color: #a58c4a;
+}
+
+@media screen and (max-width: $medium) {
+  .home-publication {
+    display: block;
+  }
+
+  .home-publication__actions {
+    margin-top: 0.65rem;
+  }
+
+  .home-education span {
+    display: block;
+  }
+}

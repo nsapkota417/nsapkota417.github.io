@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nishchal Sapkota"
   avatar           : "headshot.jpg" # "69426030_2599961650068241_8321958469867405312_n.jpg"
-  bio              : "E-mail: nsapkota@nd.edu"
+  bio              : "Machine Learning Scientist · Foundation Models · Healthcare AI"
   location         : 
-  employer         : "University of Notre Dame"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0ZclOWAAAAAJ&hl=en"
-  email            : # "nsapkota@nd.edu"
+  email            : "nsapkota@nd.edu"
   linkedin         : nsapkota417/ # "https://www.linkedin.com/in/nsapkota417/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,6 +115,13 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  experience:
+    - organization: "Amazon"
+      role: "Applied Scientist Intern"
+    - organization: "Mayo Clinic"
+      role: "Computational Pathology & AI Intern"
+    - organization: "IBM"
+      role: "Senior Data Scientist Intern"
 
 
 # Reading Files
