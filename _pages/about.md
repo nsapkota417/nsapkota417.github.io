@@ -13,6 +13,8 @@ About
 
 I am a **Ph.D. candidate in Computer Science and Engineering** at the <a href="https://www.nd.edu/" target="_blank" rel="noopener noreferrer">**University of Notre Dame**</a>, advised by <a href="https://scholar.google.com/citations?user=tRerdSIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">**Dr. Danny Chen**</a>. I build scalable machine-learning and computer-vision systems for real-world, data-limited environments. I received my **M.S. in Computer Science and Engineering** from Notre Dame in 2024 and expect to complete my Ph.D. in December 2026.
 
+My research experience spans **Amazon**, where I work on reinforcement learning and multimodal generative systems; **Mayo Clinic**, where I develop pathology foundation models and scalable healthcare AI; and **IBM**, where I built large-scale predictive models for user behavior and conversion.
+
 Research Interests
 ------------------
 
